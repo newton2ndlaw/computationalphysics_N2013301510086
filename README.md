@@ -7,3 +7,4 @@
 
 ## 作业
 [Homework1](https://github.com/newton2ndlaw/computationalphysics_N2013301510086/blob/master/README.md)
+[Homework2](https://github.com/newton2ndlaw/computationalphysics_N2013301510086/blob/master/Homework2.md)
