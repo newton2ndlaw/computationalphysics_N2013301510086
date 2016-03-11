@@ -24,6 +24,8 @@ print "##### #   # #   # #   #  ####        #### ##### "
 ### 作业L2 在屏幕上用字符拼出任意次序的姓名
 **以下内容纯属原创，如果引用，请注明本文档链接。**
 
+[程序链接][https://github.com/newton2ndlaw/computationalphysics_N2013301510086/blob/master/Homework3-2.py]
+
 程序采用Microsoft Visual Studio 2015编写。(习惯了用vs写代码）
 
 先正序和反序显示自己的名字，接下来可以输入任意的字母（包括空格），然后用字符显示出来。
