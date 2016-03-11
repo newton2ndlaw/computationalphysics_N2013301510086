@@ -34,7 +34,7 @@ print "##### #   # #   # #   #  ####        #### ##### "
 代码如下：
 ```python
 #letter list designed by Zhang Qi
-letter=[['     ','     ','     ','     ','     ']] #space
+letter=[['     ','     ','     ','     ','     ']] #space 0
 letter.append(['  #  ',' # # ','#####','#   #','#   #']) #A 1
 letter.append(['#### ','#   #','#### ','#   #','#### ']) #B 2
 letter.append([' ### ','#   #','#    ','#   #',' ### ']) #C 3
@@ -90,7 +90,7 @@ print ''
 #字母识别列表
 all_letter=(' ','a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z')
 
-name = raw_input('Please write down your name (small letter): ') #输入名字,暂时不支持换行
+name = raw_input('Please write down your name (small letter): ') #输入任意的小写字母
 
 for i in range(5):
     for i0 in range(len(name)):
