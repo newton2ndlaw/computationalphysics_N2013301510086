@@ -1,6 +1,3 @@
-import pygame
-pygame.init()
-
 #letter list designed by Zhang Qi
 letter=[['     ','     ','     ','     ','     ']] #space
 letter.append(['  #  ',' # # ','#####','#   #','#   #']) #A 1
