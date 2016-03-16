@@ -5,7 +5,7 @@
  
 - [x] 作业L1 在屏幕上用字符拼出自己姓名的英文
 - [x] 作业L2 在屏幕上用字符拼出任意次序的姓名
-- [ ] 作业L3 在80*80点阵上用字符拼出你想画的东西，希望脑洞大开！（比如字符，火柴人，实现移动、旋转等等）
+- [x] 作业L3 在80*80点阵上用字符拼出你想画的东西，希望脑洞大开！（比如字符，火柴人，实现移动、旋转等等）
 
 ## 背景介绍
   显卡的工作原理。
@@ -26,7 +26,7 @@ print "##### #   # #   # #   #  ####        #### ##### "
 
 [程序链接](https://github.com/newton2ndlaw/computationalphysics_N2013301510086/blob/master/Homework3-2.py)
 
-程序采用Microsoft Visual Studio 2015编写。(习惯了用vs写代码）
+程序采用Microsoft Visual Studio 2015编写。
 
 先正序和反序显示自己的名字，接下来可以输入任意的字母（包括空格），然后用字符显示出来。
 
@@ -87,6 +87,7 @@ for i in range(5):
     print letter[9][i],letter[17][i],letter[0][i],letter[7][i],letter[14][i],letter[1][i],letter[8][i],letter[26][i]
 print ''
 
+
 #字母识别列表
 all_letter=(' ','a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z')
 
@@ -104,8 +105,45 @@ raw_input()
 ```
 
 ### 作业L3 在80*80点阵上用字符拼出你想画的东西，希望脑洞大开！（比如字符，火柴人，实现移动、旋转等等）
-
-随便画？
+这是一个静态的点阵图
+```python
+print '                     .;;hShhhhhh5s;;.                      '
+print '                  ,:;rr:;,       .:irrr:                   '
+print '             .i1hi:,                 .:s1hh:               '
+print '          ,59hi:.  ..                    .rs1r             '
+print '        rS9hs;;iiiii1s1i:                   ;35,           '
+print '      ,9B@MS         .:iS5,                   18i          '
+print '      39B@#H,  . .       r9;                   :8r         '
+print '    ,3sh33hrrrrrrrsh1:    :G;                   ,8s        '
+print '   ;As  . .        ,r35    i8:     ,:riiii::,    ,8r       '
+print '  .8r                 59    hS   1ss      ^rh51i  :8,      '
+print '  5h                   59.  5S  58sr.        .;S3; 13      '
+print ' .8.                    h9s59; 18h@@h           ;S1 9i     '    
+print ' s1 .r                   ;5r   ;Gs9G1rhsrsshr:   .81i9     '    
+print ' sr i9                          ::888;     :s8S   ,G,9.    '    
+print ' 1r 91                            11;         85   9G9.    '    
+print ' 1r r9                          .h1:iSi       ;9, ;MH&     '    
+print ' 1r ,9                          iS   iXr       s55H5S1     '    
+print ' ,S,.8s                         ;3    ;95ss:        &:     '    
+print '  19 ,9i                         r8s,   ,:sS1111h5i9A;.    '    
+print '   8h iXh                         :1ShSsir...   .::is133i  '    
+print '   :8S .99i                           ,;:ss1SSs        iX5 '    
+print '     39. i9S:.                          ,i:  GAX5        HG'   
+print '      ;8h  :;hhs.                   .;158r  58.8@1      :#8'   
+print '       ,1Ss.  ,is5s1;;.      .,;rh1Ssir,  r9S. r@8     .AB.'   
+print '         .11hs:   .iihsssssssshhri,     r9S:  ;HB.    rAX. '   
+print '            .iisS1:,               ,:55rr:   rH3.    3@5   '   
+print '               rXhshrhsiirririis515rr.      i:      X@G    '  
+print '                 i&.  .:::::,::::.                    h@X. '   
+print '                  13                                   5@S '   
+print '                   h1                                   &#.'   
+print '                   55                                   5#.'   
+print '                   ;X,                                  5@,'   
+print '                    G&                                 .&B.'   
+print '                   :H9                                .&#; '   
+print '                   1#                                .MM.  '   
+```
+下面是一个动态点阵图
 
 ## 结论
 
