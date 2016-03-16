@@ -12,6 +12,8 @@
   
 ## 正文
 ### 作业L1 在屏幕上用字符拼出自己姓名的英文
+效果如图
+![3-2](https://raw.githubusercontent.com/newton2ndlaw/computationalphysics_N2013301510086/master/Homework3/Homework3-1.png)
 代码如下
 ```python
 print "##### #   #   #   #   #  ####        ###  ##### "
@@ -20,7 +22,7 @@ print "  #   ##### ##### # # # #  ##       # # #   #   "
 print " #    #   # #   # #  ## #   #       #  ##   #   "
 print "##### #   # #   # #   #  ####        #### ##### "
 ```
-效果图在作业L2所示的图片中
+
 
 ### 作业L2 在屏幕上用字符拼出任意次序的姓名
 **以下内容纯属原创，如果引用，请注明本文档链接。**
