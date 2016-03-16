@@ -91,8 +91,9 @@ print ''
 #字母识别列表
 all_letter=(' ','a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z')
 
-name = raw_input('Please write down your name (small letter): ') #输入任意的小写字母
+name = raw_input('Please write down your name (small letter): ') #可以输入任意的小写字母,包括空格
 
+#可以识别相应的字母,然后用点阵的方式显示出来
 for i in range(5):
     for i0 in range(len(name)):
         for i1 in range(27):
@@ -105,7 +106,7 @@ raw_input()
 ```
 
 ### 作业L3 在80*80点阵上用字符拼出你想画的东西，希望脑洞大开！（比如字符，火柴人，实现移动、旋转等等）
-这是一个静态的点阵图
+这是一个静态的点阵图的代码
 ```python
 print '                     .;;hShhhhhh5s;;.                      '
 print '                  ,:;rr:;,       .:irrr:                   '
@@ -121,7 +122,7 @@ print '  5h                   59.  5S  58sr.        .;S3; 13      '
 print ' .8.                    h9s59; 18h@@h           ;S1 9i     '    
 print ' s1 .r                   ;5r   ;Gs9G1rhsrsshr:   .81i9     '    
 print ' sr i9                          ::888;     :s8S   ,G,9.    '    
-print ' 1r 91                            11;         85   9G9.    '    
+print ' 1r 91                                        85   9G9.    '    
 print ' 1r r9                          .h1:iSi       ;9, ;MH&     '    
 print ' 1r ,9                          iS   iXr       s55H5S1     '    
 print ' ,S,.8s                         ;3    ;95ss:        &:     '    
@@ -143,8 +144,9 @@ print '                    G&                                 .&B.'
 print '                   :H9                                .&#; '   
 print '                   1#                                .MM.  '   
 ```
-下面是一个动态点阵图
-
+下面是一个动态点阵图的代码
+```python
+```
 ## 结论
 
 待会弄个图片上去。
