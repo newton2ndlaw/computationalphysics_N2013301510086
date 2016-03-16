@@ -20,6 +20,7 @@ print "  #   ##### ##### # # # #  ##       # # #   #   "
 print " #    #   # #   # #  ## #   #       #  ##   #   "
 print "##### #   # #   # #   #  ####        #### ##### "
 ```
+效果图在作业L2所示的图片中
 
 ### 作业L2 在屏幕上用字符拼出任意次序的姓名
 **以下内容纯属原创，如果引用，请注明本文档链接。**
@@ -33,7 +34,7 @@ print "##### #   # #   # #   #  ####        #### ##### "
 弄了一个二维数组，并没有使用字典。为了简便，每个字母用5*5的字符表示出来。表示数组的每一行代表一个字母，每一列代表每个字母的每一行。后面为了简洁，因此使用了一个数表和循环进行识别输入的字符。暂时没有加入换行的功能，明天再弄。
 
 效果如图：
-[3-2](https://raw.githubusercontent.com/newton2ndlaw/computationalphysics_N2013301510086/master/Homework3/Homework3-2.png)
+[3-2][https://raw.githubusercontent.com/newton2ndlaw/computationalphysics_N2013301510086/master/Homework3/Homework3-2.png]
 
 代码如下：
 ```python
