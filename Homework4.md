@@ -16,7 +16,7 @@
 
 这道题的背景是人口增长模型，要解出以下方程的数值解。
 
-<img src="http://chart.googleapis.com/chart?cht=tx&chl=\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}" style="border:none;">
+
 
 运用书中1.2节介绍的方法，可以得到递推公式。
 
