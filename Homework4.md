@@ -16,7 +16,7 @@
 
 这道题的背景是人口增长模型，要解出以下方程的数值解。
 
-<img src="http://www.forkosh.com/mathtex.cgi? \Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}">
+http://latex.codecogs.com/svg.latex?\frac{1}{\pi}=\frac{2\sqrt{2}}{9801}\sum_{k=0}^\infty\frac{(4k)!(1103+26390k)}{(k!)^4396^{4k}}
 
 运用书中1.2节介绍的方法，可以得到递推公式。
 
