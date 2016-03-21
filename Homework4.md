@@ -115,3 +115,5 @@ savefig('notes'+' N='+Nstr+' a='+astr+' b='+bstr+' t='+timestr+'.png')
 待会弄个图片上去。
 
 ## 致谢
+
+* 参考了老师编写的程序。
