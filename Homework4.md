@@ -14,19 +14,17 @@
 
 选择的题目是Exercise 1.6。
 
-这道题的背景是人口增长模型，要解出以下方程的数值解。
+这道题的背景是人口增长模型，要解出方程的数值解。运用书中1.2节介绍的方法，可以得到递推公式。最后用python进行运算即可。
 
-$$ \frac{dN}{dt}=a N-b N^2 $$
-
-运用书中1.2节介绍的方法，可以得到递推公式。
-
-$$ N(t_{i+1})=N(t_i)+[a N(t_i)-bN^2(t_i)]dt $$
-
-最后用python进行运算。
-
+###第一版
+该版本暂时先提供简单的输入、计算、输出、存储、作图功能。
 该程序的一些细节：
 * 定义了四个函数：输入、计算、存储、读取。
-*
+* 可以根据输入的变量来表示输出的文件名。
+* 如果遇到有相同文件名的文本文件，就将其覆盖。
+* 反复运行此程序，输入不同的参数，可以得包含每次计算的结果文本文件。
+* 输出的图像为红色，线宽为3，并加入了标题和横纵坐标。
+* 第一版作一个测试，为提高程序速度，未利用read函数。
 
 代码如下
 ```python
@@ -73,7 +71,6 @@ def calculate(N, t, a, b, dt, n):
         t.append(t[i-1] + dt)
     return 0
 
-
 #存储
 def store(N, t, n):
     mfile = open('notes'+' N='+Nstr+' a='+astr+' b='+bstr+' t='+timestr+'.txt','a')
@@ -113,13 +110,15 @@ store(N, t, n)
 plot(t, N, label='$N(t)$',color='red',linewidth=3)
 xlabel('t')
 ylabel('N')
-title('Homework 1.6')
-
+title('Exercise 1.6 Population growth problems')
 
 show()
 savefig('notes'+' N='+Nstr+' a='+astr+' b='+bstr+' t='+timestr+'.png')
-
 ```
+
+### 第二版
+* 可以根据输入的信息来改变输出的图像。
+* 添加了程序后输出所有计算过程的功能，利用了read函数。
 
 
 ## 结论
