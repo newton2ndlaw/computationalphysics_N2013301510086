@@ -8,13 +8,23 @@
 
 ## 背景介绍
 
-运用python来解决物理问题。
+练习运用python来解决物理问题。利用python的进行数值运算来解微分方程，并做出解的图像。
 
 ## 正文
 
-选择的题目是Exercise 1.6
+选择的题目是Exercise 1.6。
 
+这道题的背景是人口增长模型，要解出以下方程的数值解。
 
+<img src="http://www.forkosh.com/mathtex.cgi? \Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}">
+
+运用书中1.2节介绍的方法，可以得到递推公式。
+
+最后用python进行运算。
+
+该程序的一些细节：
+* 
+*
 
 代码如下
 ```python
