@@ -225,6 +225,8 @@ print '                   1#                                .MM.  '
 
 #### 第二版
 下面让这幅图可以横向移动30格
+效果如图
+![3-2](https://raw.githubusercontent.com/newton2ndlaw/computationalphysics_N2013301510086/master/Homework3/Homework3-3.png)
 代码如下：
 ```python
 import os
@@ -285,3 +287,5 @@ raw_input()
 待会弄个图片上去。
 
 ## 致谢
+
+* 这次作业没有参考别人的结果。
