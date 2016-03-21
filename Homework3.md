@@ -228,7 +228,7 @@ print '                   1#                                .MM.  '
 
 效果如图
 
-![3-3](https://raw.githubusercontent.com/newton2ndlaw/computationalphysics_N2013301510086/master/Homework3/Homework3-3.png)
+![3-3](https://raw.githubusercontent.com/newton2ndlaw/computationalphysics_N2013301510086/master/Homework3/Homework3-3.jpg)
 
 代码如下：
 ```python
