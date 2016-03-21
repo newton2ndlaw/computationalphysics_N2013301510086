@@ -8,8 +8,106 @@
 
 ## 背景介绍
 
+运用python来解决物理问题。
 
 ## 正文
+
+选择的题目是Exercise 1.6
+
+
+
+代码如下
+```python
+#作业1.6
+
+from pylab import *
+import pickle
+
+N = []
+t = []
+a = 0
+b = 0
+dt = 0
+n = 0
+time = 0
+
+#输入
+def initialize(N, t, _a, _b, _dt, _n):
+    global a, b, dt, n, time
+    print 'Initial population N -> ',
+    N.append(float(raw_input()))
+    print 'Constant a -> ',
+    a = float(raw_input())
+    print 'Constant b -> ',
+    b = float(raw_input())
+    print 'Total time t -> ',
+    time = float(raw_input())
+    print 'Time step dt -> ',
+    dt = float(raw_input())
+    t.append(0)
+    n = int(time / dt)
+    return 0
+
+#计算
+def calculate(N, t, a, b, dt, n):
+    print 'N=',N
+    print 't=',t
+    print 'a=',a
+    print 'b=',b
+    print 'dt=',dt
+    print 'n=',n
+    for i in range(1,n):
+        N.append(N[i-1] + (a * N[i-1] - b * N[i-1] * N[i-1]) * dt)
+        t.append(t[i-1] + dt)
+    return 0
+
+
+#存储
+def store(N, t, n):
+    mfile = open('notes'+' N='+Nstr+' a='+astr+' b='+bstr+' t='+timestr+'.txt','a')
+    for i in range(n):
+        print >> mfile, i ,t[i], N[i]
+    mfile.close()
+
+    pickle_file = open('pickled_data.pkl','w')
+    pickle.dump(t, pickle_file)
+    pickle.dump(N, pickle_file)
+
+    return 0
+
+#读取
+def read():
+    pickle_file = open('pickled_data.pkl','r')
+    t = pickle.load(pickle_file)
+    N = pickle.load(pickle_file)
+    print t
+    print N
+
+initialize(N, t, a, b, dt, n)
+calculate(N, t, a, b, dt, n)
+
+#将初始值转化为字符串用于文件名
+Nstr = '%f' %N[0]
+astr = '%f' %a
+bstr = '%f' %b
+timestr = '%f' %time
+
+#清空文件 碰到同名文件就将其清除掉
+mfile = open('notes'+' N='+Nstr+' a='+astr+' b='+bstr+' t='+timestr+'.txt','a')
+mfile.truncate()
+mfile.close()
+
+store(N, t, n)
+plot(t, N, label='$N(t)$',color='red',linewidth=3)
+xlabel('t')
+ylabel('N')
+title('Homework 1.6')
+
+
+show()
+savefig('notes'+' N='+Nstr+' a='+astr+' b='+bstr+' t='+timestr+'.png')
+
+```
 
 
 ## 结论
