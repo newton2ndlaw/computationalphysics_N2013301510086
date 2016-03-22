@@ -136,13 +136,151 @@ savefig('notes'+' N='+Nstr+' a='+astr+' b='+bstr+' t='+timestr+'.png')
 
 ### 第二版
 * 可以根据输入的信息来改变输出的图像。
-* 添加了程序后输出所有计算过程的功能，利用了read函数。
+* 暂时只做了线形，线宽，线的颜色，标记点的大小，标记点的颜色几个变量。
+* 如有需要，还可以提供更多的选项来作图。
+* 添加了程序的介绍，并且让输出信息显示更加工整。
+* 仍然没有利用read函数，觉得没有太大意义。
+* 第二版程序保留了第一版所有的信息。
 
+第二版程序的效果图
+
+![](https://raw.githubusercontent.com/newton2ndlaw/computationalphysics_N2013301510086/master/Homework4/Homework4-8.png)
+
+
+第二版程序代码如下
+```python
+#作业1.6
+
+from pylab import *
+import pickle
+
+N = []
+t = []
+a = 0
+b = 0
+dt = 0
+n = 0
+time = 0
+
+print 'Exercise 1.6 Problem growth problems V1.2'
+print 'Designed by Roach'
+print 'Please input the following condition:'
+
+#输入
+def initialize(N, t, _a, _b, _dt, _n):
+    global a, b, dt, n, time
+    print 'Initial population N -> ',
+    N.append(float(raw_input()))
+    print 'Constant a -> ',
+    a = float(raw_input())
+    print 'Constant b -> ',
+    b = float(raw_input())
+    print 'Total time t -> ',
+    time = float(raw_input())
+    print 'Time step dt -> ',
+    dt = float(raw_input())
+    t.append(0)
+    n = int(time / dt)
+    return 0
+
+#计算
+def calculate(N, t, a, b, dt, n):
+    print ''
+    print 'The conditions you input:'
+    print 'N =',N
+    print 't =',t
+    print 'a =',a
+    print 'b =',b
+    print 'dt=',dt
+    print 'n =',n
+    for i in range(1,n):
+        N.append(N[i-1] + (a * N[i-1] - b * N[i-1] * N[i-1]) * dt)
+        t.append(t[i-1] + dt)
+    return 0
+
+#存储
+def store(N, t, n):
+    mfile = open('notes'+' N='+Nstr+' a='+astr+' b='+bstr+' t='+timestr+'.txt','a')
+    for i in range(n):
+        print >> mfile, i ,t[i], N[i]
+    mfile.close()
+
+    pickle_file = open('pickled_data.pkl','w')
+    pickle.dump(t, pickle_file)
+    pickle.dump(N, pickle_file)
+
+    return 0
+
+#读取
+def read():
+    pickle_file = open('pickled_data.pkl','r')
+    t = pickle.load(pickle_file)
+    N = pickle.load(pickle_file)
+    print t
+    print N
+
+initialize(N, t, a, b, dt, n)
+
+#获取线类型
+print 'The line style you want (input the style number)(1."-"  2."--" 3."-." 4.": "):',
+stylenumber = input()
+
+stylelist=['0','-','--','-.',':']
+stylestr = stylelist[stylenumber]
+
+#获取线宽度
+print 'The line width you want : ',
+linewidthget = float(raw_input())
+
+#获取线颜色
+print 'The line color you want (input the color number)(1.blue 2.green 3.red 4.cyan 5.magenta 6.yellow 7.black 8.white): ',
+colornumber = input()
+
+colorlist=['0','blue','green','red','cyan','magenta','yellow','black','white']
+colorstr = colorlist[colornumber]
+
+#获取标记大小
+print 'The mark size you want : ',
+marksizenumber = float(raw_input())
+#获取标记颜色
+print 'The mark color you want (input the color number)(1.blue 2.green 3.red 4.cyan 5.magenta 6.yellow 7.black 8.white): ',
+colornumbermark = input()
+markcolorstr = colorlist[colornumbermark]
+
+calculate(N, t, a, b, dt, n)
+
+print 'Line style: ',stylestr
+print 'Line width: ',linewidthget
+print 'Line color: ',colorstr
+print 'Mark size:  ',marksizenumber
+print 'Mark color: ',markcolorstr
+
+#将初始值转化为字符串用于文件名
+Nstr = '%f' %N[0]
+astr = '%f' %a
+bstr = '%f' %b
+timestr = '%f' %time
+
+#清空文件 碰到同名文件就将其清除掉
+mfile = open('notes'+' N='+Nstr+' a='+astr+' b='+bstr+' t='+timestr+'.txt','a')
+mfile.truncate()
+mfile.close()
+
+store(N, t, n)
+plot(t, N, marker='o',markerfacecolor=markcolorstr,markersize=marksizenumber,ls=stylestr,label="$N(t)$",color=colorstr,linewidth=linewidthget)
+xlabel('t')
+ylabel('N')
+title('Exercise 1.6 Population growth problems')
+
+show()
+savefig('notes'+' N='+Nstr+' a='+astr+' b='+bstr+' t='+timestr+'.png')
+```
 
 ## 结论
 
-待会弄个图片上去。
+可以利用python来进行微分方程的数值解法，并做出相应的图像。
 
 ## 致谢
 
 * 参考了老师编写的程序。
+* 参考了课本上的例题。
