@@ -26,7 +26,21 @@
 * 输出的图像为红色，线宽为3，并加入了标题和横纵坐标。
 * 第一版作一个测试，为提高程序速度，未利用read函数。
 
-代码如下
+程序运行之后的效果如下图：
+第一次输入N=10 a=10 b=0.01 t=3 dt=0.001
+![](https://raw.githubusercontent.com/newton2ndlaw/computationalphysics_N2013301510086/master/Homework4/Homework4-1.png)
+![](https://raw.githubusercontent.com/newton2ndlaw/computationalphysics_N2013301510086/master/Homework4/Homework4-2.png)
+第二次输入N=10 a=100 b=0.01 t=3 dt=0.001
+![](https://raw.githubusercontent.com/newton2ndlaw/computationalphysics_N2013301510086/master/Homework4/Homework4-3.png)
+![](https://raw.githubusercontent.com/newton2ndlaw/computationalphysics_N2013301510086/master/Homework4/Homework4-4.png)
+第三次输入N=1000 a=10 b=0.01 t=10 dt=0.01
+![](https://raw.githubusercontent.com/newton2ndlaw/computationalphysics_N2013301510086/master/Homework4/Homework4-5.png)
+![](https://raw.githubusercontent.com/newton2ndlaw/computationalphysics_N2013301510086/master/Homework4/Homework4-6.png)
+程序运行几次之后，产生的文件
+![](https://raw.githubusercontent.com/newton2ndlaw/computationalphysics_N2013301510086/master/Homework4/Homework4-7.png)
+
+
+程序代码如下：
 ```python
 #作业1.6
 
