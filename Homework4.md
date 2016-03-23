@@ -16,10 +16,10 @@
 
 这道题的背景是人口增长模型，要解出方程的数值解。运用书中1.2节介绍的方法，可以得到递推公式。最后用python进行运算即可。
 
-###第一版（暂时有2个版本）
+###第一版（暂时有3个版本）
 该版本暂时先提供简单的输入、计算、输出、存储、作图功能。
 
-**更加丰富的功能请看后面的第二版。**
+**更加丰富的功能请看后面的第二版和第三版**
 
 该程序的一些细节：
 * 定义了四个函数：输入、计算、存储、读取。
@@ -278,6 +278,141 @@ plot(t, N, marker='o',markerfacecolor=markcolorstr,markersize=marksizenumber,ls=
 xlabel('t')
 ylabel('N')
 title('Exercise 1.6 Population growth problems')
+
+show()
+savefig('notes'+' N='+Nstr+' a='+astr+' b='+bstr+' t='+timestr+'.png')
+```
+
+### 第三版
+
+第三版的一些新特性
+*删除了选择输出线条类型的部分。
+*添加了注释。
+*添加了理论值的曲线提供对比。
+*增加了单位（时间和人口的单位分别为时间单位和人口单位）。
+
+效果如图：
+
+选取的点较少时：（n比较小）
+![](https://raw.githubusercontent.com/newton2ndlaw/computationalphysics_N2013301510086/master/Homework4/Homework4-9.png)
+
+选取的点较多时：（n比较大）
+![](https://raw.githubusercontent.com/newton2ndlaw/computationalphysics_N2013301510086/master/Homework4/Homework4-10.png)
+
+代码如下：（[附链接](https://raw.githubusercontent.com/newton2ndlaw/computationalphysics_N2013301510086/master/Homework4/Homeworkchapter1.py)）
+
+```python
+#作业1.6
+from math import *
+from pylab import *
+from matplotlib.pylab import *
+import pickle
+import matplotlib.pyplot as plt
+import numpy as np
+import pylab as pl
+
+N = []
+t = []
+a = 0
+b = 0
+dt = 0
+n = 0
+time = 0
+
+print 'Exercise 1.6 Problem growth problems V1.3'
+print 'Designed by Roach'
+print 'Please input the following condition:'
+
+#输入
+def initialize(N, t, _a, _b, _dt, _n):
+    global a, b, dt, n, time
+    print 'Initial population N -> ',
+    N.append(float(raw_input()))
+    print 'Constant a -> ',
+    a = float(raw_input())
+    print 'Constant b -> ',
+    b = float(raw_input())
+    print 'Total time t -> ',
+    time = float(raw_input())
+    print 'Time step dt -> ',
+    dt = float(raw_input())
+    t.append(0)
+    n = int(time / dt)
+    return 0
+
+#计算
+def calculate(N, t, a, b, dt, n):
+    print ''
+    print ''
+    print 'The conditions you input:'
+    print 'N =',N
+    print 't =',t
+    print 'a =',a
+    print 'b =',b
+    print 'dt=',dt
+    print 'n =',n
+    for i in range(1,n):
+        N.append(N[i-1] + (a * N[i-1] - b * N[i-1] * N[i-1]) * dt)
+        t.append(t[i-1] + dt)
+    return 0
+
+#存储
+def store(N, t, n):
+    mfile = open('notes'+' N='+Nstr+' a='+astr+' b='+bstr+' t='+timestr+'.txt','a')
+    for i in range(n):
+        print >> mfile, i ,t[i], N[i]
+    mfile.close()
+
+    pickle_file = open('pickled_data.pkl','w')
+    pickle.dump(t, pickle_file)
+    pickle.dump(N, pickle_file)
+
+    return 0
+
+#读取
+def read():
+    pickle_file = open('pickled_data.pkl','r')
+    t = pickle.load(pickle_file)
+    N = pickle.load(pickle_file)
+    print t
+    print N
+
+initialize(N, t, a, b, dt, n)
+calculate(N, t, a, b, dt, n)
+
+#将初始值转化为字符串用于文件名
+Nstr = '%f' %N[0]
+astr = '%f' %a
+bstr = '%f' %b
+timestr = '%f' %time
+
+#清空文件 碰到同名文件就将其清除掉
+mfile = open('notes'+' N='+Nstr+' a='+astr+' b='+bstr+' t='+timestr+'.txt','a')
+mfile.truncate()
+mfile.close()
+
+store(N, t, n)
+
+#作出计算所得图形
+plot1,=plot(t, N, marker='o',markerfacecolor='yellow',markersize=5,ls='--',label='N(t)',color='red',linewidth=2)
+
+#做出标准的图形
+x0 = [0]
+y0 = [N[0]]
+dt0 = time/10000
+for i in range(1,10000):
+    x0.append(dt0 * i)
+    y0.append((a*(e**(a*x0[i]))*N[0])/(a-b*N[0]+b*(e**(a*x0[i]))*N[0]))
+plot2,=plot(x0, y0,linewidth=2,color='blue',label='N0(t)')
+
+plt.legend((plot1,plot2),('Computed Result','Theoretical Result'),loc='upper right',fontsize=20)
+
+#显示标题等信息
+xlabel('t (unit time)',fontsize=20)
+ylabel('N (unit number)',fontsize=20)
+text(int(time/2),int(3.5*N[n-1]/5),'Constant a=' + astr,fontsize=20)
+text(int(time/2),int(3.2*N[n-1]/5),'Constant b=' + bstr,fontsize=20)
+title('Exercise 1.6 Population growth problems',fontsize=20)
 
 show()
 savefig('notes'+' N='+Nstr+' a='+astr+' b='+bstr+' t='+timestr+'.png')
