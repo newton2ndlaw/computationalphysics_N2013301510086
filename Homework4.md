@@ -293,11 +293,18 @@ savefig('notes'+' N='+Nstr+' a='+astr+' b='+bstr+' t='+timestr+'.png')
 
 效果如图：
 
+
 选取的点较少时：（n比较小）
 ![](https://raw.githubusercontent.com/newton2ndlaw/computationalphysics_N2013301510086/master/Homework4/Homework4-9.png)
 
-选取的点较多时：（n比较大）
+选取的点较多时：
 ![](https://raw.githubusercontent.com/newton2ndlaw/computationalphysics_N2013301510086/master/Homework4/Homework4-10.png)
+
+选取的点更多时：（n比较大）
+![](https://raw.githubusercontent.com/newton2ndlaw/computationalphysics_N2013301510086/master/Homework4/Homework4-11.png)
+
+我们可以看出，随着计算的步长越来越小，计算所得结果越接近理论曲线。
+
 
 代码如下：（[附链接](https://raw.githubusercontent.com/newton2ndlaw/computationalphysics_N2013301510086/master/Homework4/Homeworkchapter1.py)）
 
