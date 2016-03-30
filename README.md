@@ -10,3 +10,5 @@
 - [Homework2](https://github.com/newton2ndlaw/computationalphysics_N2013301510086/blob/master/Homework2.md)
 - [Homework3](https://github.com/newton2ndlaw/computationalphysics_N2013301510086/blob/master/Homework3.md)
 - [Homework4](https://github.com/newton2ndlaw/computationalphysics_N2013301510086/blob/master/Homework4.md)
+- [Homework5](https://github.com/newton2ndlaw/computationalphysics_N2013301510086/blob/master/Homework5.md)
+- [Homework6](https://github.com/newton2ndlaw/computationalphysics_N2013301510086/blob/master/Homework6.md)
