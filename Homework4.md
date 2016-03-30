@@ -47,7 +47,7 @@
 ![](https://raw.githubusercontent.com/newton2ndlaw/computationalphysics_N2013301510086/master/Homework4/Homework4-7.png)
 
 
-程序链接：[V1.0](https://raw.githubusercontent.com/newton2ndlaw/computationalphysics_N2013301510086/master/Homework4/V1.0.md)
+程序链接：[V1.0](https://github.com/newton2ndlaw/computationalphysics_N2013301510086/blob/master/Homework4/V1.0.md)
 
 ### 第二版
 
@@ -66,7 +66,7 @@
 ![](https://raw.githubusercontent.com/newton2ndlaw/computationalphysics_N2013301510086/master/Homework4/Homework4-8.png)
 
 
-程序链接：[V2.0](https://raw.githubusercontent.com/newton2ndlaw/computationalphysics_N2013301510086/master/Homework4/V2.0.md)
+程序链接：[V2.0](https://github.com/newton2ndlaw/computationalphysics_N2013301510086/blob/master/Homework4/V2.0.md)
 
 ### 第三版
 
@@ -91,7 +91,7 @@
 我们可以看出，随着计算的步长越来越小，计算所得结果越接近理论曲线。
 
 
-代码如下：[V3.0](https://raw.githubusercontent.com/newton2ndlaw/computationalphysics_N2013301510086/master/Homework4/Homeworkchapter1.py)
+代码如下：[V3.0](https://github.com/newton2ndlaw/computationalphysics_N2013301510086/blob/master/Homework4/V3.0.md)
 
 
 
