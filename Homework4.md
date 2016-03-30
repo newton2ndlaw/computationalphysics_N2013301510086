@@ -88,7 +88,7 @@
 选取的点更多时：（n比较大）
 ![](https://raw.githubusercontent.com/newton2ndlaw/computationalphysics_N2013301510086/master/Homework4/Homework4-11.png)
 
-我们可以看出，随着计算的步长越来越小，计算所得结果越接近理论曲线。
+我们可以看出，随着计算的步长越来越小，计算所得结果越接近理论曲线。曲线基本重合时，可以判断计算的精确度达到要求。
 
 
 代码如下：[V3.0](https://github.com/newton2ndlaw/computationalphysics_N2013301510086/blob/master/Homework4/V3.0.md)
@@ -97,7 +97,9 @@
 
 ## 结论
 
-可以利用python来进行微分方程的数值解法，并做出相应的图像。
+可以利用python来进行微分方程的数值解法，并做出相应的图像。并且可以在实际问题中运用此方法找出人口增长的规律。
+
+该程序的一些特点在于：可以输出不同的模型和图像到不同的文本文档中，这样可以方便之后查看自己所计算过的模型。可以更清楚的了解步长的大小对计算结果的影响。
 
 ## 致谢
 
