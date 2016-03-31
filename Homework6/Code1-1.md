@@ -1,3 +1,4 @@
+```python
 #作业2.9
 from math import *
 from pylab import *
@@ -57,12 +58,22 @@ print ''
 print 'The conditions are:'
 print 'theta =',Initial_theta, 'deg'
 print 'dt =',dt,'s'
+print 'B/m =',Constant_Bm,'m^-1'
+print 'a =',Constant_a,'K/m'
+print 'alpha =',Constant_alpha,''
+print 'T0 =',Constant_T0,'K'
+print 'g =',Constant_g,'m/s^2'
+print 'velocity =',Initial_velocity,'m/s'
 print 'The result is:'
-print 'Landing point x = ',c_x[i],'m'
+print 'Landing point x =',c_x[i],'m'
+print 'Total steps =',i
 
-plot(c_x,c_y)
+strInitial_theta=str(Initial_theta)
+
+plot(c_x,c_y,linewidth=3,label=strInitial_theta)
 xlabel('x (m)',fontsize=20)
 ylabel('y (m)',fontsize=20)
 title('Exercise 2.9 The trajectory',fontsize=20)
 
 show()
+```
