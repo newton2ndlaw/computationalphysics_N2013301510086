@@ -16,7 +16,7 @@
 
 炮弹发射的过程是一个绝热过程，空气密度与海拔高度的关系：
 
-![1](http://latex.codecogs.com/gif.latex?%5Crho%20%3D%20%5Crho_0%20%281-%5Cfrac%7Bay%7D%7BT_0%7D%29%5E%5Calph)
+![1](http://latex.codecogs.com/gif.latex?%5Crho%20%3D%20%5Crho_0%20%281-%5Cfrac%7Bay%7D%7BT_0%7D%29%5E%5Calpha)
 
 
 ## 结论
