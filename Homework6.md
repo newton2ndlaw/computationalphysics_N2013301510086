@@ -14,9 +14,16 @@
 
 ### 作业L1
 
-炮弹发射的过程是一个绝热过程，空气密度与海拔高度的关系：
+炮弹发射的过程是一个绝热过程，根据课本P30，空气密度与海拔高度的关系：
 
-![1](http://latex.codecogs.com/gif.latex?%5Crho%20%3D%20%5Crho_0%20%281-%5Cfrac%7Bay%7D%7BT_0%7D%29%5E%5Calpha)
+![](http://latex.codecogs.com/gif.latex?%5Crho%20%3D%20%5Crho_0%20%281-%5Cfrac%7Bay%7D%7BT_0%7D%29%5E%5Calpha)
+
+空气阻力和空气密度的关系：
+
+![](http://latex.codecogs.com/gif.latex?F_%7Bdrag%7D%5E*%3D%5Cfrac%7B%5Crho%7D%7B%5Crho_0%7DF_%7Bdrag%7D%28y%3D0%29)
+
+于是，可以得到递推关系：
+
 
 
 ## 结论
