@@ -79,7 +79,7 @@
 * 只需更改源代码中所要求的角度即可
 
 效果图：
-![][https://github.com/newton2ndlaw/computationalphysics_N2013301510086/blob/master/Homework6/Homework6-5.png]
+![](https://github.com/newton2ndlaw/computationalphysics_N2013301510086/blob/master/Homework6/Homework6-5.png)
 
 [第二版程序链接](https://github.com/newton2ndlaw/computationalphysics_N2013301510086/blob/master/Homework6/Code1-3.md)
 
