@@ -29,22 +29,25 @@
 为了更方便直观的观察轨迹，固定了横纵坐标。所有的常数都是使用课本上的数值，在以下效果图中有显示。
 
 效果如图：
-![](https://github.com/newton2ndlaw/computationalphysics_N2013301510086/blob/master/Homework6/Homework6-1.png?raw=true)
+![](https://github.com/newton2ndlaw/computationalphysics_N2013301510086/blob/master/Homework6/Homework6-1.png)
 
 程序代码： [链接](https://github.com/newton2ndlaw/computationalphysics_N2013301510086/blob/master/Homework6/Code1-1.md)
 
 更改了部分代码之后，可以更方便的比较不同参数之间的区别了。
 
-如图，对比不同角度之间的轨迹与落点的位置。
-![]()
+如图，对比不同角度之间的轨迹与落点的位置，可以得到最远距离的抛射角度。
+![](https://github.com/newton2ndlaw/computationalphysics_N2013301510086/blob/master/Homework6/Homework6-2.png)
 单独保存的坐标图如下：
-![]()
+![](https://github.com/newton2ndlaw/computationalphysics_N2013301510086/blob/master/Homework6/Homework6-3.png)
 
-如图，对比相同角度，不同步长对最后结果的区别。可以看出，时间间隔
-
+如图，对比相同角度，不同步长对最后结果的区别。根据结果可以推断出，时间间隔在0.001s时，精度已经可以达到1m了。
+![](https://github.com/newton2ndlaw/computationalphysics_N2013301510086/blob/master/Homework6/Homework6-4.png)
 
 程序代码： [链接](https://github.com/newton2ndlaw/computationalphysics_N2013301510086/blob/master/Homework6/Code1-2.md) 
 
+求最远距离：将时间间隔定为0.001s，可以发现最大值在43deg到45deg之间。
+
+继续缩短时间间隔为0.0001s，以此求出43.0deg,43.1deg,43.2deg,...,45deg的落点位置。
 
 ### 作业L2
 
