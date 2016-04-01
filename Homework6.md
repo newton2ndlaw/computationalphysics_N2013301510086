@@ -89,7 +89,27 @@
 2.10 Generalize the program developed for the previous problem so that it can deal with situations in which the target is at a different altitude than the cannon. Consider cases in which the target is higher and lower than the cannon. Also investigate how the minimum firing velocity required to hit the target varies as the altitude of the target is varied.
 大概的意思是？概括项目开发之前的问题,以便它可以处理情况下,目标是在一个不同的高度比大炮。考虑的情况下,目标是高于和低于大炮。还研究如何达到目标所需的最小发射速度不同高度的目标是不同的。
 
-我的理解是要求最小速度与目标位置的关系。程序实现：输入一个高度便能自动得到所需的最低速度和出射角度。
+我的理解是要求最小速度与目标位置的关系。程序实现：输入一个高度便能自动得到所需的最低速度和出射角度。经过分析可以知道，最小速度的时候，炮弹到达目标的时候，恰好垂直方向上的速度为0。
+
+要得到射到指定高度上的目标，先制作了一个简易的程序，效果如图：
+
+![](https://github.com/newton2ndlaw/computationalphysics_N2013301510086/blob/master/Homework6/Homework6-6.png)
+
+数据部分：
+
+> * Initial theta = 5 deg     dt= 0.001 s     Landing point x = 3729.78608099 m     Landing point y = 171.233405637 m     Total steps = 5767
+> * Initial theta = 10 deg     dt= 0.001 s     Landing point x = 6530.81474873 m     Landing point y = 624.79692499 m     Total steps = 10814
+> * Initial theta = 15 deg     dt= 0.001 s     Landing point x = 8706.56332415 m     Landing point y = 1295.9757895 m     Total steps = 15362
+> * Initial theta = 20 deg     dt= 0.001 s     Landing point x = 12712.9631596 m     Landing point y = 1999.99763227 m     Total steps = 24966
+> * Initial theta = 25 deg     dt= 0.001 s     Landing point x = 17514.5284415 m     Landing point y = 1999.9052618 m     Total steps = 39100
+> * Initial theta = 30 deg     dt= 0.001 s     Landing point x = 20125.6054058 m     Landing point y = 1999.87741431 m     Total steps = 49297
+> * Initial theta = 35 deg     dt= 0.001 s     Landing point x = 21818.1101445 m     Landing point y = 1999.81466149 m     Total steps = 58180
+> * Initial theta = 40 deg     dt= 0.001 s     Landing point x = 22819.6233024 m     Landing point y = 1999.97705333 m     Total steps = 66210
+> * Initial theta = 45 deg     dt= 0.001 s     Landing point x = 23198.8105218 m     Landing point y = 1999.99977243 m     Total steps = 73547
+> * Initial theta = 50 deg     dt= 0.001 s     Landing point x = 22967.8650832 m     Landing point y = 1999.97166764 m     Total steps = 80243
+> * Press any key to continue . . .
+
+可以看出某些角度度下，根本无法达到目标的高度。
 
 ### 作业L3
 
