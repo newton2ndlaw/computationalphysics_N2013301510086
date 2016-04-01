@@ -36,12 +36,12 @@
 更改了部分代码之后，可以更方便的比较不同参数之间的区别了。
 
 如图，对比不同角度之间的轨迹与落点的位置，可以得到最远距离的抛射角度。
-![](https://github.com/newton2ndlaw/computationalphysics_N2013301510086/blob/master/Homework6/Homework6-2.png)
-单独保存的坐标图如下：
 ![](https://github.com/newton2ndlaw/computationalphysics_N2013301510086/blob/master/Homework6/Homework6-3.png)
+单独保存的坐标图如下：
+![](https://github.com/newton2ndlaw/computationalphysics_N2013301510086/blob/master/Homework6/Homework6-4.png)
 
 如图，对比相同角度，不同步长对最后结果的区别。根据结果可以推断出，时间间隔在0.001s时，精度已经可以达到1m了。
-![](https://github.com/newton2ndlaw/computationalphysics_N2013301510086/blob/master/Homework6/Homework6-4.png)
+![](https://github.com/newton2ndlaw/computationalphysics_N2013301510086/blob/master/Homework6/Homework6-2.png)
 
 程序代码： [链接](https://github.com/newton2ndlaw/computationalphysics_N2013301510086/blob/master/Homework6/Code1-2.md) 
 
