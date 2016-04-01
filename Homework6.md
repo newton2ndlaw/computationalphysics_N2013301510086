@@ -109,7 +109,7 @@
 > * Initial theta = 50 deg     dt= 0.001 s     Landing point x = 22967.8650832 m     Landing point y = 1999.97166764 m     Total steps = 80243
 > * Press any key to continue . . .
 
-可以看出某些角度度下，根本无法达到目标的高度。
+可以看出某些角度度下，根本无法达到目标的高度。同时也可以看出，达到目标高度的时候，所达到最大的高度时，只有水平方向上的速度。
 
 ### 作业L3
 
