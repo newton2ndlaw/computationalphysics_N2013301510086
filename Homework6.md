@@ -28,12 +28,16 @@
 
 为了更方便直观的观察轨迹，固定了横纵坐标。所有的常数都是使用课本上的数值，重力加速度选用的是武汉当地数值9.794m/s^2，在以下效果图中有显示。
 
-效果如图：
+#### 第一版
+
+先写了一个基本的代码。
+
+运行的效果如图：
 ![](https://github.com/newton2ndlaw/computationalphysics_N2013301510086/blob/master/Homework6/Homework6-1.png)
 
-程序代码： [链接](https://github.com/newton2ndlaw/computationalphysics_N2013301510086/blob/master/Homework6/Code1-1.md)
+基本的程序代码： [链接](https://github.com/newton2ndlaw/computationalphysics_N2013301510086/blob/master/Homework6/Code1-1.md)
 
-更改了部分代码之后，可以更方便的比较不同参数之间的区别了。
+为了比较不同的参数所带来轨迹的区别，添加了部分代码。
 
 如图，对比不同角度之间的轨迹与落点的位置，可以得到最远距离的抛射角度。
 ![](https://github.com/newton2ndlaw/computationalphysics_N2013301510086/blob/master/Homework6/Homework6-3.png)
@@ -67,7 +71,18 @@
 
 经过分析可知最远射程的角度在43.6deg（误差0.1deg），落点位置为24529m（误差0.5m）。
 
-优化程序之后，可以更方便的找出各个角度所对应的落点位置。
+#### 第二版
+优化程序之后，可以自动进行批量运算，更加方便地求出结果。
+* 删除了输出图像
+* 简化了文字的输出
+* 提供了更高的精度
+* 只需更改源代码中所要求的角度即可
+
+效果图：
+!()[]
+
+[第二版程序链接](https://github.com/newton2ndlaw/computationalphysics_N2013301510086/blob/master/Homework6/Code1-3.md)
+
 
 ### 作业L2
 
