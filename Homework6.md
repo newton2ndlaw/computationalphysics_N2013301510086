@@ -26,7 +26,7 @@
 
 ![](http://latex.codecogs.com/gif.latex?%5Cleft%5C%7B%5Cbegin%7Bmatrix%7Dv_%7Bx%2Ci&plus;1%7D%3Dv_%7Bx%2Ci%7D-%5Cfrac%7B%5Crho%20B_2%20v_i%20v_%7Bx%2Ci%7D%7D%7B%5Crho_0%20m%7D%20%5C%5C%20v_%7By%2Ci&plus;1%7D%3Dv_%7By%2Ci%7D-%5Cfrac%7B%5Crho%20B_2%20v_i%20v_%7By%2Ci%7D%7D%7B%5Crho_0%20m%7D%20%5C%5C%20v_i%3D%5Csqrt%7Bv_%7Bx%2Ci%7D%5E2&plus;v_%7By%2Ci%7D%5E2%7D%20%5C%5C%20%5Cfrac%7B%5Crho%7D%7B%5Crho_0%7D%3D%281-%5Cfrac%7Bay%7D%7BT_0%7D%29%5E%5Calpha%20%5C%5C%20x_%7Bi&plus;1%7D%3Dx_i&plus;v_%7Bx%2Ci%7D%20%5CDelta%20t%20%5C%5C%20y_%7Bi&plus;1%7D%3Dy_i&plus;v_%7By%2Ci%7D%20%5CDelta%20t%20%5Cend%7Bmatrix%7D%5Cright.)
 
-为了更方便直观的观察轨迹，固定了横纵坐标。所有的常数都是使用课本上的数值，在以下效果图中有显示。
+为了更方便直观的观察轨迹，固定了横纵坐标。所有的常数都是使用课本上的数值，重力加速度选用的是武汉当地数值9.794m/s^2，在以下效果图中有显示。
 
 效果如图：
 ![](https://github.com/newton2ndlaw/computationalphysics_N2013301510086/blob/master/Homework6/Homework6-1.png)
@@ -46,21 +46,23 @@
 程序代码： [链接](https://github.com/newton2ndlaw/computationalphysics_N2013301510086/blob/master/Homework6/Code1-2.md) 
 
 求最远距离：将时间间隔定为0.001s，可以发现最大值在43deg到45deg之间。
-> * theta=41 x=24458.8885085
-> * theta=42 x=24503.0416323
-> * theta=43 x=24525.8416870
-> * theta=44 x=24527.1081447
-> * theta=45 x=24506.6490545
-> * theta=46 x=24464.0696149
+> * theta=41    x=24458.8885085
+> * theta=42    x=24503.0416323
+> * theta=43    x=24525.8416870
+> * theta=44    x=24527.1081447
+> * theta=45    x=24506.6490545
+> * theta=46    x=24464.0696149
 
-
-继续缩短时间间隔为0.0001s，以此求出43.0deg,43.1deg,43.2deg,...,45deg的落点位置。
-> * theta=41 x=24458.8885085
-> * theta=42 x=24503.0416323
-> * theta=43 x=24525.8416870
-> * theta=44 x=24527.1081447
-> * theta=45 x=24506.6490545
-> * theta=46 x=24464.0696149
+继续缩短时间间隔为0.0001s，以此求出43.0deg,43.2deg,43.4deg,...,45deg的落点位置。
+> * theta=43.0     x=24525.7873230
+> * theta=43.2     x=24527.7863969
+> * theta=43.4     x=24528.8941009
+> * theta=43.6     x=
+> * theta=43.8     x=24506.6490545
+> * theta=44.0     x=24464.0696149
+> * theta=44.2     x=24464.0696149
+> * theta=44.4     x=24464.0696149
+> * theta=44.6     x=24464.0696149
 
 ### 作业L2
 
