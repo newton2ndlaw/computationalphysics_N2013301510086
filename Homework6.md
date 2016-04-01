@@ -86,7 +86,10 @@
 
 ### 作业L2
 
+2.10 Generalize the program developed for the previous problem so that it can deal with situations in which the target is at a different altitude than the cannon. Consider cases in which the target is higher and lower than the cannon. Also investigate how the minimum firing velocity required to hit the target varies as the altitude of the target is varied.
+大概的意思是？概括项目开发之前的问题,以便它可以处理情况下,目标是在一个不同的高度比大炮。考虑的情况下,目标是高于和低于大炮。还研究如何达到目标所需的最小发射速度不同高度的目标是不同的。
 
+我的理解是要求最小速度与目标位置的关系。程序实现：输入一个高度便能自动得到所需的最低速度和出射角度。
 
 ### 作业L3
 
