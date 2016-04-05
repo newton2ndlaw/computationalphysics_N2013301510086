@@ -36,7 +36,7 @@ def initialize(Initial_theta,Initial_velocity):
     global dt,c_vx,c_vy,c_x,c_y,theta,m,velocity
     Initial_theta = Initial_thetas[m1]
     Initial_velocity = Initial_velocitys[m2]
-    dt = 0.1
+    dt = 0.01
     c_vx.append(Initial_velocity * cos(Initial_theta*pi/180))
     c_vy.append(Initial_velocity * sin(Initial_theta*pi/180))
     c_x.append(0.0)
@@ -173,7 +173,8 @@ result_velocity1 = None
 result_theta1 = None
 xabs = []
 yabs = []
-
+result_velocity1 = []
+result_theta1 = []
 
 for m1 in range (100):
 #每计算一次之前的初始化
@@ -199,6 +200,7 @@ for n in range (len(result_x)):
     if abs(result_y[n] - luodian_y) < 100 :
         yabs.append(abs(result_y[n] - luodian_y))
         xabs.append(abs(result_x[n] - luodian_x))
+        result_velocity1.append(result_velocity[n])
         result_theta1.append(result_theta[n])
 
 
