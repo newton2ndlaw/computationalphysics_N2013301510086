@@ -138,7 +138,7 @@
 
 ![](https://github.com/newton2ndlaw/computationalphysics_N2013301510086/blob/master/Homework6/Homework6-2-2.png)
 
-完整的输出：
+完整的输出内容太多，因此给出链接：
 [结果的链接](https://github.com/newton2ndlaw/computationalphysics_N2013301510086/blob/master/Homework6/data2.txt)
 
 代码链接：
@@ -179,7 +179,22 @@
 ![](https://github.com/newton2ndlaw/computationalphysics_N2013301510086/blob/master/Homework6/Homework6-3-1.png)
 
 所得的数据如下：
-
+> * Final result is:
+> * min velocity =  620 m/s
+> * The best theta =  50.2 deg
+> * error x =  2.34366446801 m
+> * error y =  0.489940326464 m
+> * Initial velocity = 589.0 m/s     Initial theta = 49.2 deg     Landing point x = 18747.5936833 m     y = 999.16025653 m     Total steps = 7185     dt = 0.01 s
+> * Initial velocity = 589.0 m/s     Initial theta = 50.2 deg     Landing point x = 18644.6093633 m     y = 998.761294321 m     Total steps = 7295     dt = 0.01 s
+> * Initial velocity = 589.0 m/s     Initial theta = 51.2 deg     Landing point x = 18522.3090066 m     y = 997.776985987 m     Total steps = 7403     dt = 0.01 s
+> * Initial velocity = 620 m/s     Initial theta = 49.2 deg     Landing point x = 20108.4695368 m     y = 996.94047375 m     Total steps = 7487     dt = 0.01 s
+> * Initial velocity = 620 m/s     Initial theta = 50.2 deg     Landing point x = 19997.6563355 m     y = 999.510059674 m     Total steps = 7600     dt = 0.01 s
+> * Initial velocity = 620 m/s     Initial theta = 51.2 deg     Landing point x = 19868.2598149 m     y = 998.224137667 m     Total steps = 7712     dt = 0.01 s
+> * Initial velocity = 651.0 m/s     Initial theta = 49.2 deg     Landing point x = 21470.9066587 m     y = 998.907980567 m     Total steps = 7779     dt = 0.01 s
+> * Initial velocity = 651.0 m/s     Initial theta = 50.2 deg     Landing point x = 21356.8769746 m     y = 998.121805234 m     Total steps = 7897     dt = 0.01 s
+> * Initial velocity = 651.0 m/s     Initial theta = 51.2 deg     Landing point x = 21219.4571796 m     y = 999.741794601 m     Total steps = 8012     dt = 0.01 s
+> * Landing point x min is  18522.3090066 m    max is  21470.9066587 m
+> * The maximum error is  1477.69099344 m
 
 代码链接：
 [Code](https://github.com/newton2ndlaw/computationalphysics_N2013301510086/blob/master/Homework6/Code2-3.md)
