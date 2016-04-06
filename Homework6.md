@@ -117,10 +117,19 @@
 更改了大量代码，重新编写了程序之后，具体执行过程是速度计算从500-1000m/s，对应每个角度扫遍0-90°。初步定出最低速度后，再减小角度的间隔，找出最佳角度。为了保证计算效率，因此速度的精度选择在10m/s，角度的精度在0.1°。
 运行了几次之后，发现结果误差均在3m以内，考虑到炮弹爆炸的范围，根据该模型炮弹可以精确打击到目标。
 
-效果图：
+更改代码中的luodian_x与luodian_y的数值，即可得到要打击地点所需求的发射速度和初始角度。
+
+效果图：所求得的轨迹用蓝色线表示，要打击的点用蓝色圆点表示。
+
 ![](https://github.com/newton2ndlaw/computationalphysics_N2013301510086/blob/master/Homework6/Homework6-2-1.png)
 
 误差图：
+> * Final result is:
+> * min velocity =  620 m/s
+> * The best theta =  50.2
+> * error x =  2.34366446801 m
+> * error y =  0.489940326464 m
+
 ![](https://github.com/newton2ndlaw/computationalphysics_N2013301510086/blob/master/Homework6/Homework6-2-2.png)
 
 完整的输出：
@@ -138,6 +147,8 @@
 
 
 ## 致谢
+
+
 
 
 
