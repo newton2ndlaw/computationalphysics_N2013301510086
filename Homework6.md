@@ -124,7 +124,7 @@
 ![](https://github.com/newton2ndlaw/computationalphysics_N2013301510086/blob/master/Homework6/Homework6-2-2.png)
 
 完整的输出：
-[结果的链接](https://github.com/newton2ndlaw/computationalphysics_N2013301510086/blob/master/Homework6/Code2-2.md)
+[结果的链接](https://github.com/newton2ndlaw/computationalphysics_N2013301510086/blob/master/Homework6/data2.txt)
 
 代码链接：
 [Code](https://github.com/newton2ndlaw/computationalphysics_N2013301510086/blob/master/Homework6/Code2-1.md)
