@@ -54,6 +54,7 @@
 程序代码： [链接](https://github.com/newton2ndlaw/computationalphysics_N2013301510086/blob/master/Homework6/Code1-2.md) 
 
 求最远距离：将时间间隔定为0.001s，可以发现最大值在43deg到45deg之间。
+
 > * theta(deg)  x(m)
 > * theta=41    x=24458.8885085
 > * theta=42    x=24503.0416323
@@ -63,6 +64,7 @@
 > * theta=46    x=24464.0696149
 
 继续缩短时间间隔为0.0001s，以此求出43.0deg-45.0deg角度之间的落点位置。
+
 > * theta(deg)     x(m)
 > * theta=43.0     x=24525.7873230
 > * theta=43.2     x=24527.7863969
@@ -101,6 +103,7 @@
 
 数据部分：
 
+
 > * Initial theta = 5 deg     dt= 0.001 s     Landing point x = 3729.78608099 m     Landing point y = 171.233405637 m     Total steps = 5767
 > * Initial theta = 10 deg     dt= 0.001 s     Landing point x = 6530.81474873 m     Landing point y = 624.79692499 m     Total steps = 10814
 > * Initial theta = 15 deg     dt= 0.001 s     Landing point x = 8706.56332415 m     Landing point y = 1295.9757895 m     Total steps = 15362
@@ -112,6 +115,7 @@
 > * Initial theta = 45 deg     dt= 0.001 s     Landing point x = 23198.8105218 m     Landing point y = 1999.99977243 m     Total steps = 73547
 > * Initial theta = 50 deg     dt= 0.001 s     Landing point x = 22967.8650832 m     Landing point y = 1999.97166764 m     Total steps = 80243
 > * Press any key to continue . . .
+
 
 可以看出某些角度度下，根本无法达到目标的高度。同时也可以看出，达到目标高度的时候，所达到最大的高度时，只有水平方向上的速度。
 
@@ -139,6 +143,7 @@
 > * error x =  2.34366446801 m
 > * error y =  0.489940326464 m
 
+
 ![](https://github.com/newton2ndlaw/computationalphysics_N2013301510086/blob/master/Homework6/Homework6-2-2.png)
 
 完整的输出内容太多，因此给出链接：
@@ -155,6 +160,7 @@
 > * The best theta =  48.4 deg
 > * error x =  0.16015657806 m
 > * error y =  1.18356369012 m
+
 ![](https://github.com/newton2ndlaw/computationalphysics_N2013301510086/blob/master/Homework6/Homework6-2-3.png)
 
 
@@ -164,19 +170,28 @@
 > * The best theta =  49.6 deg
 > * error x =  3.54463554191 m
 > * error y =  0.944241171886 m
+
 ![](https://github.com/newton2ndlaw/computationalphysics_N2013301510086/blob/master/Homework6/Homework6-2-4.png)
 
 * 如果要继续提高精度，直接减小角度的间隔与速度的间隔即可，但会导致运行时间很长，暂时没有想到特别好的优化计算速度的方法。
 * 考虑到扫遍500-1000m/s，0-90°，所花的时间比较长，可以单独将其结果输出为一个文件，之后只用查阅该文件就可以了，这个方法可以节省大量时间。并且可以将节省出来的时间花在更精细的其他运算上，以提高精度和效率。
 
 同样是选取的打击点为**x=20000m，y=1000m**，将精确度调为速度2m/s，角度0.02deg，所得结果对比如下：
-精确度 10m/s 0.1deg                   精确度 10m/s 0.1deg 
-用时                                  用时 8:30
-Final result is:                      Final result is:
-min velocity =  620 m/s               min velocity =  614 m/s  
-The best theta =  50.2 deg            The best theta =  47.16 deg
-error x =  2.34366446801 m            error x =  0.378643408018 m     
-error y =  0.489940326464 m           error y =  0.160188358397 m
+
+精确度 10m/s 0.1deg 用时 1:20
+> * Final result is:                     
+> * min velocity =  620 m/s  
+> * The best theta =  50.2 deg        
+> * error x =  2.34366446801 m          
+> * error y =  0.489940326464 m     
+
+
+精确度 10m/s 0.1deg 用时 8:30
+> * Final result is:
+> * min velocity =  614 m/s  
+> * The best theta =  47.16 deg
+> * error x =  0.378643408018 m     
+> * error y =  0.160188358397 m
 
 
 
@@ -209,6 +224,7 @@ error y =  0.489940326464 m           error y =  0.160188358397 m
 > * Initial velocity = 651.0 m/s     Initial theta = 51.2 deg     Landing point x = 21219.4571796 m     y = 999.741794601 m     Total steps = 8012     dt = 0.01 s
 > * Landing point x min is  18522.3090066 m    max is  21470.9066587 m
 > * The maximum error is  1477.69099344 m
+
 
 代码链接：
 [Code](https://github.com/newton2ndlaw/computationalphysics_N2013301510086/blob/master/Homework6/Code2-3.md)
