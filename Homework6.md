@@ -170,13 +170,13 @@
 * 考虑到扫遍500-1000m/s，0-90°，所花的时间比较长，可以单独将其结果输出为一个文件，之后只用查阅该文件就可以了，这个方法可以节省大量时间。并且可以将节省出来的时间花在更精细的其他运算上，以提高精度和效率。
 
 同样是选取的打击点为**x=20000m，y=1000m**，将精确度调为速度2m/s，角度0.02deg，所得结果对比如下：
-> * 精确度 10m/s 0.1deg                   精确度 10m/s 0.1deg 
-> * 用时                                  用时 8:30
-> * Final result is:                      Final result is:
-> * min velocity =  620 m/s               min velocity =  614 m/s  
-> * The best theta =  50.2 deg            The best theta =  47.16 deg
-> * error x =  2.34366446801 m            error x =  0.378643408018 m     
-> * error y =  0.489940326464 m           error y =  0.160188358397 m
+精确度 10m/s 0.1deg                   精确度 10m/s 0.1deg 
+用时                                  用时 8:30
+Final result is:                      Final result is:
+min velocity =  620 m/s               min velocity =  614 m/s  
+The best theta =  50.2 deg            The best theta =  47.16 deg
+error x =  2.34366446801 m            error x =  0.378643408018 m     
+error y =  0.489940326464 m           error y =  0.160188358397 m
 
 
 
