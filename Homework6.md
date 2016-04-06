@@ -141,6 +141,7 @@
 [Code](https://github.com/newton2ndlaw/computationalphysics_N2013301510086/blob/master/Homework6/Code2-1.md)
 
 其他的例子结果如图：
+
 *x=15000m y=1500m*
 
 ![](https://github.com/newton2ndlaw/computationalphysics_N2013301510086/blob/master/Homework6/Homework6-2-3.png)
