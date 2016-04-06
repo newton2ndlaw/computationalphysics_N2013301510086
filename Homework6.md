@@ -119,6 +119,8 @@
 
 更改代码中的luodian_x与luodian_y的数值，即可得到要打击地点所需求的发射速度和初始角度。
 
+以下例子选取的打击点为x=20000m，y=1000m
+
 效果图：所求得的轨迹用蓝色线表示，要打击的点用蓝色圆点表示。
 
 ![](https://github.com/newton2ndlaw/computationalphysics_N2013301510086/blob/master/Homework6/Homework6-2-1.png)
@@ -137,6 +139,18 @@
 
 代码链接：
 [Code](https://github.com/newton2ndlaw/computationalphysics_N2013301510086/blob/master/Homework6/Code2-1.md)
+
+其他的例子结果如图：
+*x=15000m y=1500m*
+
+![](https://github.com/newton2ndlaw/computationalphysics_N2013301510086/blob/master/Homework6/Homework6-2-3.png)
+
+
+*x=23456m y=1234m*
+
+![](https://github.com/newton2ndlaw/computationalphysics_N2013301510086/blob/master/Homework6/Homework6-2-4.png)
+
+
 
 ### 作业L3
 
