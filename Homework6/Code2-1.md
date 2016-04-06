@@ -208,7 +208,7 @@ for n in range (len(xabs)):
 print ''
 print 'Final result is:'
 print 'min velocity = ',velocityresult1,'m/s'
-print 'The best theta = ',result_theta1[minlabel],''
+print 'The best theta = ',result_theta1[minlabel],'deg'
 print 'error x = ',xabs[minlabel],'m'
 print 'error y = ',yabs[minlabel],'m'
 
