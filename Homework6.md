@@ -143,7 +143,11 @@
 其他的例子结果如图：
 
 *x=15000m y=1500m*
-
+> * Final result is:
+> * min velocity =  510 m/s
+> * The best theta =  48.4 deg
+> * error x =  0.16015657806 m
+> * error y =  1.18356369012 m
 ![](https://github.com/newton2ndlaw/computationalphysics_N2013301510086/blob/master/Homework6/Homework6-2-3.png)
 
 
