@@ -1,5 +1,4 @@
 ```python
-
 #作业2.10
 from math import *
 from pylab import *
@@ -24,10 +23,10 @@ Initial_velocity = 0.0
 Initial_theta = 0.0
 
 luodian_x = 20000
-luodian_y = 3000
+luodian_y = 1000
 
 #版本信息
-print 'Exercise 2.9 The trajectory V2.0'
+print 'Exercise 2.9 The trajectory V3.0'
 print 'Designed by Roach'
 print 'Please input the following conditions:'
 
@@ -71,6 +70,7 @@ def calculate(c_vx,c_vy,c_x,c_y,c_v,dt,Constant_Bm,Constant_a,Constant_alpha,Con
     print 'Landing point x =',c_x[-1],'m    ',
     print 'y =',c_y[-1],'m    ',
     print 'Total steps =',i,
+    print '    dt =',dt,'s',
     return 0
 
 print ''
@@ -81,7 +81,6 @@ print 'a =',Constant_a,'K/m'
 print 'alpha =',Constant_alpha,''
 print 'T0 =',Constant_T0,'K'
 print 'g =',Constant_g,'m/s^2'
-print 'velocity =',Initial_velocity,'m/s'
 print ''
 print ''
 
@@ -89,13 +88,11 @@ print ''
 Initial_thetas=[]
 for i_theta in range (19):
     Initial_thetas.append(i_theta*5)
-print Initial_thetas
 
 #要求速度列表
 Initial_velocitys=[]
 for i_velocity in range (51):
     Initial_velocitys.append(i_velocity*10+500)
-print Initial_velocitys
 
 result_velocity=[]
 result_theta=[]
@@ -131,7 +128,7 @@ result_theta1=[]
 
 #删除不符合的数据
 for n in range (len(result_x)):
-    if abs(result_y[n] - luodian_y) < 100 and result_x[n] - luodian_x > 0:
+    if abs(result_y[n] - luodian_y) < 10 and result_x[n] - luodian_x > 0:
         yabs.append(abs(result_y[n] - luodian_y))
         xabs.append(abs(result_x[n] - luodian_x))
         result_velocity1.append(result_velocity[n])
@@ -142,8 +139,7 @@ for n in range (len(xabs)):
     if min(result_velocity1) == result_velocity1[n]:
         minlabel = n
 
-print 'min label',minlabel
-print 'velocity',result_velocity1[minlabel]
+print 'min velocity',result_velocity1[minlabel]
 print 'theta',result_theta1[minlabel]
 print 'xabs',xabs[minlabel]
 print 'yabs',yabs[minlabel]
@@ -160,6 +156,7 @@ print Initial_thetas
 Initial_velocitys=None
 Initial_velocitys=[]
 Initial_velocitys.append(result_velocity1[minlabel])
+velocityresult1=result_velocity1[minlabel]
 
 result_x = None
 result_y = None
@@ -208,9 +205,37 @@ for n in range (len(xabs)):
     if min(xabs) == xabs[n]:
         minlabel = n
 
-print 'min label',minlabel
-print 'theta',result_theta1[minlabel]
-print 'xabs',xabs[minlabel]
-print 'yabs',yabs[minlabel]
+print ''
+print 'Final result is:'
+print 'min velocity = ',velocityresult1,'m/s'
+print 'The best theta = ',result_theta1[minlabel],''
+print 'error x = ',xabs[minlabel],'m'
+print 'error y = ',yabs[minlabel],'m'
+
+m1=0
+m2=0
+Initial_velocitys=None
+Initial_velocitys=[velocityresult1]
+Initial_thetas=None
+Initial_thetas=[result_theta1[minlabel]]
+
+c_x = None
+c_y = None
+c_vx = None
+c_vy = None
+c_x = []
+c_y = []
+c_vx = []
+c_vy = []
+c_v = []
+initialize(Initial_theta,Initial_velocity)
+calculate(c_vx,c_vy,c_x,c_y,c_v,dt,Constant_Bm,Constant_a,Constant_alpha,Constant_T0,Constant_g)
+print ''
+plot(c_x,c_y)
+plt.scatter(luodian_x,luodian_y)
+xlabel('x (m)')
+ylabel('y (m)')
+title('Problem 2.10')
+show()
 
 ```
