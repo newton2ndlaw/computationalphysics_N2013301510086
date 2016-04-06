@@ -128,7 +128,7 @@
 误差图：
 > * Final result is:
 > * min velocity =  620 m/s
-> * The best theta =  50.2
+> * The best theta =  50.2 deg
 > * error x =  2.34366446801 m
 > * error y =  0.489940326464 m
 
@@ -152,7 +152,11 @@
 
 
 *x=23456m y=1234m*
-
+> * Final result is:
+> * min velocity =  700 m/s
+> * The best theta =  49.6 deg
+> * error x =  3.54463554191 m
+> * error y =  0.944241171886 m
 ![](https://github.com/newton2ndlaw/computationalphysics_N2013301510086/blob/master/Homework6/Homework6-2-4.png)
 
 
