@@ -12,4 +12,4 @@
 - [Homework4](https://github.com/newton2ndlaw/computationalphysics_N2013301510086/blob/master/Homework4.md)
 - [Homework5](https://github.com/newton2ndlaw/computationalphysics_N2013301510086/blob/master/Homework5.md)
 - [Homework6](https://github.com/newton2ndlaw/computationalphysics_N2013301510086/blob/master/Homework6.md)
-- [Homework7]([Homework 7](https://www.zybuluo.com/newton2ndlaw/note/338827))
+- [Homework7](https://www.zybuluo.com/newton2ndlaw/note/338827)
