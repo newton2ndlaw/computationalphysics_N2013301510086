@@ -1,4 +1,4 @@
-# Homework7
+# Homework 7
 
 张琦 2013301510086
 
@@ -22,7 +22,10 @@
 
 Caculate the effect of backspin on a fastball. Asssume an angular velocity of 2000 rpm.
 
-计算一个球下旋效果。假设2000转的角速度。 
+翻译结果：计算一个球下旋效果。假设2000转每分钟的角速度。 
+
+
+
 
 
 ### 作业L2 使用vpython可视化炮弹发射或者棒球运动
