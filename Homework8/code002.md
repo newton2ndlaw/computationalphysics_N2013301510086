@@ -4,7 +4,7 @@ import numpy as np
 from math import *
 from pickle import *
 
-print 'Exercise 3.8 The relationship between the amplitude and period V2.0'
+print 'Exercise 3.8 The relationship between the amplitude and period V2.1'
 print 'Designed by Roach'
 
 c_t = []
