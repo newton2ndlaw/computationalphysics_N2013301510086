@@ -67,7 +67,6 @@ for m1 in range(18):
         if c_theta[i] > c_theta[i-1] and c_theta[i] > c_theta[i+1]:
             t_thetamax.append(c_t[i])
     print 'Time list ',t_thetamax
-    print ''
     strtheta = str(Initial_thetasdeg[m1])
     plt.plot(c_t,c_theta,label=strtheta +'deg')
 
