@@ -4,7 +4,7 @@ import numpy as np
 from math import *
 from pickle import *
 
-print 'Exercise 3.8 The relationship between the amplitude and period V2.1'
+print 'Exercise 3.8 The relationship between the amplitude and period V3.0'
 print 'Designed by Roach'
 
 c_t = []
@@ -47,6 +47,8 @@ Initial_omegas = [0]
 print 'theta list(deg)',Initial_thetasdeg
 print 'theta list(rad)',Initial_thetas
 
+periodlist=[]
+
 for m1 in range(18):
     c_theta = None
     c_omega = None
@@ -67,13 +69,16 @@ for m1 in range(18):
             t_thetamax.append(c_t[i])
     print 'Period =',t_thetamax[10]/10,'s'
 
-    print ''
+    periodlist.append(t_thetamax[10]/10)
     strtheta = str(Initial_thetasdeg[m1])
-    plt.plot(c_t,c_theta,label=strtheta +'deg')
 
-plt.xlabel('t (s)')
-plt.ylabel('theta (rad)')
-plt.title('Exercise 3.8')
-plt.legend()
+print 'Initial theta list',Initial_thetasdeg
+print 'period list',periodlist
+
+plt.xlabel('theta (deg)')
+plt.ylabel('period (s)')
+plt.title('Exercise 3.8 The relationship between the amplitude and period V3.0')
+plt.plot(Initial_thetasdeg,periodlist,label='theta')
 plt.show()
+
 ```
