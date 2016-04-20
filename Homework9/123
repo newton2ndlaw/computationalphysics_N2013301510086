@@ -1,0 +1,81 @@
+import matplotlib.pyplot as plt
+import numpy as np
+from math import *
+from pickle import *
+
+print 'Exercise 3.12 V1.0'
+print 'Designed by Roach'
+
+c_t = []
+c_theta = []
+c_omega = []
+Initial_theta = 0
+Initial_omega = 0
+F_d= 0.0
+dt = 0.01
+
+Constant_g = 9.8
+Constant_l = 9.8
+Constant_q = 1.0/2.0
+Constant_Omegad = 2.0/3.0
+
+def Initialize(Initial_theta,Initial_omega):
+    global c_theta,c_omega,F_d
+    c_theta.append(Initial_theta)
+    c_omega.append(Initial_omega)
+    c_t.append(0.0)
+    print 'Initial theta =',c_theta[0],'rad    ',
+    print 'Initial omega =',c_omega[0],'rad/s    ',
+    print 'F_d =',F_d,'Force unit    ',
+    return 0
+
+def Calculate(c_theta,c_omega,c_t,dt,F_d,Constant_q,Constant_Omegad):
+    i = 0
+    for i in range(10000):
+# ellipsis Constant_g/Constant_l=1
+        c_omega.append(c_omega[i] - ( sin(c_theta[i]) - Constant_q * c_omega[i] + F_d * sin(Constant_Omegad*c_t[i]) )*dt)
+        c_theta.append(c_theta[i] + c_omega[i+1]*dt)
+        c_t.append(c_t[i]+dt)
+        i=i+1
+        if c_theta[-1] > pi:
+            ctheta = c_theta[-1]
+            del c_theta[-1]
+            c_theta.append(ctheta-2*pi)
+        elif c_theta[-1] < -pi:
+            ctheta = c_theta[-1]
+            del c_theta[-1]
+            c_theta.append(ctheta+2*pi)
+    print 'Total steps =',i,'    ',
+    print 'dt =',dt,'s'
+    return 0
+
+Initial_thetas = [0.2]
+Initial_omegas = [0.0]
+F_dlists = [0.0,0.5,1.2]
+
+for m1 in range(3):
+    c_theta = None
+    c_omega = None
+    t_thetamax = None
+    c_t = None
+    c_theta = []
+    c_omega = []
+    t_thetamax = []
+    c_t = []
+    Initial_theta = Initial_thetas[0]
+    Initial_omega = Initial_omegas[0]
+    F_d = F_dlists[m1]
+
+    Initialize(Initial_theta,Initial_omega)
+    Calculate(c_theta,c_omega,c_t,dt,F_d,Constant_q,Constant_Omegad)
+    
+    i=1
+    
+    strF_d=str(F_dlists[m1])
+    plt.plot(c_t,c_theta,label='F_d = '+strF_d+' Force unit')
+
+plt.xlabel('t (s)')
+plt.ylabel('theta (rad)')
+plt.title('Exercise 3.8')
+plt.legend()
+plt.show()
