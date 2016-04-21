@@ -1,3 +1,4 @@
+# Figure 3.6
 
 ```python
 import matplotlib.pyplot as plt
