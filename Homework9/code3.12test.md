@@ -1,3 +1,4 @@
+```python
 import matplotlib.pyplot as plt
 from math import *
 
@@ -57,3 +58,4 @@ plt.xlabel('t (s)')
 plt.ylabel('theta (rad)')
 plt.legend()
 plt.show()
+```
