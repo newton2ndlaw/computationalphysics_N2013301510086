@@ -1,9 +1,12 @@
 ``` python
-import matplotlib.pyplot as plt
+import matplotlib.pylab as plt
 from math import *
+from time import *
 
 print 'Exercise 3.16 V1.0'
 print 'Designed by roach'
+
+start_time = time()
 
 Constant_g=9.8
 Constant_l=9.8
@@ -33,15 +36,15 @@ def Calculate(Initial_theta,Initial_omega,c_t,c_theta,c_omega):
             c_theta[-1]=c_theta[-1]+2*pi
     print 'Total steps =',i,'    ',
     print 'dt =',dt
-                
+
     return 0
 
 Initial_theta=0.2
 Initial_omega=0.0
 F_dlist=[]
 F_dlist2=[]
-for i in range(400):
-    F_dlist.append(1.4+0.0002*i)
+for i in range(900):
+    F_dlist.append(1.4+0.0001*i)
 
 result_theta=[]
 resultall_theta=[]
@@ -61,7 +64,7 @@ for m in range(len(F_dlist)):
     result_theta2=[]
     result_theta3=[]
     Calculate(Initial_theta,Initial_omega,c_t,c_theta,c_omega)
-    for i in range(20000,29999):
+    for i in range(15000,29999):
         if c_theta[i]>c_theta[i-1] and c_theta[i]>c_theta[i+1] and c_theta[i] < 3.1:
             result_theta.append(c_theta[i])
             resultall_theta.append(c_theta[i])
@@ -75,10 +78,14 @@ for m in range(len(F_dlist)):
             result_theta3[n1+1]=0
     print '        Result max thetas',sorted(result_theta3,reverse=True)
 
+
 plt.scatter(F_dlist2,resultall_theta,label='Bifurcation diagram')
 plt.xlabel('F_D (N)')
 plt.ylabel('theta (rad)')
 plt.title('Exercise 3.16 Bifurcation diagram')
 plt.legend()
+
+print 'Time used',time() - start_time,'s'
+
 plt.show()
 ```
