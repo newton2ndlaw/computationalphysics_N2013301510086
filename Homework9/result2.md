@@ -1801,3 +1801,4 @@ Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4898 N     Tot
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4899 N     Total steps = 29999      dt = 0.01
         Result max thetas [2.945247491254513, 1.4093722100525987, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Time used 195.515000105 s
+Press any key to continue . . .
