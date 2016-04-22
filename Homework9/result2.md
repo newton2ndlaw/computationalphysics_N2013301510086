@@ -1,803 +1,1803 @@
 Exercise 3.16 V1.0
 Designed by roach
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.1615849524171855, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.1614437562190205, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4001 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.161851174104809, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4002 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.1624094314378204, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.1622580597600347, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4003 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.1626644066891076, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4004 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.163232377750979, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.1630702081895836, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4005 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.1634754573466086, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4006 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.164053771882875, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.1638801470273816, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4007 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.1642842698753304, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4008 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.1648735925241147, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.1646878183042135, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4009 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.1650907844922216, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.401 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.165691816399762, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.1654931603756733, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4011 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.165894937642786, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4012 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.1665084181307352, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.166296107727222, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4013 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.1666966618014487, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4014 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.1673233700860113, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.167096590769994, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4015 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.1674958852625843, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4016 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.1681366422253596, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.1678945356269947, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4017 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.168292531921885, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4018 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.1689482019316926, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.168691613487513, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4019 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.1690902994638206, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.402 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.169758013832613, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.169488297257335, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4021 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.1698855956404977, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4022 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.170568074402913, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.1702821830564387, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4023 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.170678047610579, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4024 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.1713783949965073, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.1710731770622385, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4025 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.1714675588159205, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4026 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.172186837240784, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.1718611799124905, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4027 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.172254027020075, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4028 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.1729933524797618, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.1726460864248582, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4029 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.173037344021612, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.403 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.1737978882066473, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.1734277853040846, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4031 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.1738173953550852, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4032 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.1746003878050604, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.1742061588364736, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4033 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.174594059978906, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4034 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.1754007902742147, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.1749810825712124, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4035 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.175367209949859, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4036 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.17619902993728, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.1757524249878775, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4037 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.176136710083837, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4038 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.1769950361320167, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.176520047150272, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4039 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.176902417602269, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.404 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.1777887328828234, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.177283802345443, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4041 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.177664181763923, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4042 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.1785800385530782, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.1780435357080457, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4043 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.178421843481674, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4044 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.179368865476838, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.178799083829436, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4045 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.179175234923599, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4046 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.180155119568893, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.1795502743508, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4047 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.1799241790983657, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4048 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.1809386999119282, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.1802969255404805, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4049 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.180668489424092, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.405 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.1817194983198784, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.181038845854477, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4051 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.181407969280611, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4052 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.182497398875973, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.1817758334801836, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4053 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.182142411544533, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4054 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.183272277444872, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.182507675862915, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4055 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.1828715981069347, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4056 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.1840440011566655, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.1832341492144285, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4057 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.183595299373114, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4058 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.184812427862601, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.183955018003946, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4059 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.1843132737442166, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.406 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.185577405560296, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.1846700344303835, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4061 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.1850252670805053, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4062 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.186338771787621, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.1853789378764428, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4063 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.185731012145796, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4064 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.187096352983616, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.186081454343491, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4065 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.1864302280330588, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4066 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.1878499638151263, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.1867772958676808, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4067 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.1871226195708378, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4068 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.188599406467791, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.1874661599167546, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4069 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.1878078767104605, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.407 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.189344469899768, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.188147728767568, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4071 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.1884874063052635, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4072 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.1900851307173457, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.1888251823537743, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4073 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.18916095517796, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4074 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.1908246066707036, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.1894946792090444, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4075 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.1898263077779996, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4076 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.1915589613319213, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.190155793093465, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4077 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.1904830862193285, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4078 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.1922879211824196, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.190808137051974, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4079 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.191130894297379, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.408 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.193011195051686, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.1914513054478126, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4081 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.1917693167582706, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4082 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.193728473112746, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.1920848732226648, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4083 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.1923979185497195, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4084 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.194439425830045, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.1927083951386703, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4085 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.193016244054502, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4086 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.1951437028584913, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.193321405003231, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4087 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.1936238163067854, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4088 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.1958409318927186, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.193923414877501, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4089 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.194220136192774, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.409 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.1965307174651043, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.1945139142691232, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4091 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.1948046816362434, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4092 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.1972126396916023, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.195092369310858, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4093 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.195376906770381, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4094 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.1978862529647256, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.1956582219262426, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4095 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.1959362410974563, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4096 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.1985510845925393, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.1962108889836065, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4097 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.196482088638071, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4098 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.199206633383792, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.1967497614408553, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4099 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.1970138270716144, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.41 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.1998523681780093, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.1972742034824027, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4101 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.1975308068705153, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4102 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.200487726321764, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.1977835516512347, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4103 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.1980323504306365, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4104 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.201112112090116, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.198277113978425, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4105 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.198517751200729, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4106 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.201724895055028, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.1987541691132098, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4107 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.1989862728140284, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4108 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.202325408401203, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.19921396545715, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4109 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.1994371482257886, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.411 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.2029129471912596, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.199655720306031, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4111 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.1998695788607616, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4112 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.2034867665822673, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.2000786190038446, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4113 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.2002827337747575, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4114 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.2040460799964605, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.2004818141134797, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4115 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.2006757488358253, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4116 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.2045900572495656, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.2008644246094295, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4117 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.201047725930045, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4118 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.205117822641372, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.2012255350984318, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4119 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.20139773219815, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.412 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.2056284530128893, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.2015641950736704, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4121 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.2017247993096056, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4122 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.20612097577731, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.201879418210496, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4123 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.202027922781591, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4124 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.206594366931301, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.2021701817105885, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4125 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.2023060613503818, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4126 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.207047549055589, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.2024354257029204, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4127 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.202558136404234, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4128 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.2074793893142926, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.2026740527107345, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4129 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.202783031486856, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.413 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.207888697465111, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.202884927194159, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4131 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.202979591881818, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4132 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.2082742238927646, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.203066875178983, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4133 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.2031466242886077, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4134 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.2086346576811935, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.20321868398322, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4135 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.2032828966025386, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4136 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.2089687833308207, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.2033391020531528, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4137 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.203387137810487, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4138 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.2092767281494288, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.203426838922611, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4139 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.203458038016855, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.414 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.2095551221660568, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.2034805653086895, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4141 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.2034942486131968, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4142 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.2098023837838894, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.2034989133594216, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4143 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.2034943826074795, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4144 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.2100168613853577, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.203480477068617, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4145 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.2034570151286412, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4146 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.2101968320692396, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.2034238128743926, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4147 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.2033806841237182, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4148 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.2103405005986523, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.20332744045909, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4149 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.203263891264831, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.415 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.21044599859571, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.203189843768284, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4151 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.203105103084924, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4152 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.210511384022931, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.2030094722677673, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4153 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.2029027523609974, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4154 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.2105346409943913, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.2027847424580926, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4155 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.202655239764708, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4156 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.2105136799631198, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.2025140396661254, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4157 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.2023609358000305, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4158 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.2104463383356574, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.202195720134077, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4159 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.2020181830488617, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.416 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.2103303815672537, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.2018281134263957, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4161 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.230456807127545, 2.201625298744077, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4162 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.231074514034149, 2.210163504795198, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.231074514034149, 2.201409525174514, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4163 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.2317020037135933, 2.201180577691082, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4164 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.2323396432737037, 2.2099433350707733, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.2323396432737037, 2.2009382401797253, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4165 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.2329878098432254, 2.20068229555686, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4166 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.2336468905927642, 2.209667434253688, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.2336468905927642, 2.200412525893589, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4167 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.234317282731887, 2.2001287125463325, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4168 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.234999393479867, 2.2093333026342243, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.234999393479867, 2.199830636294274, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4169 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.2356936400077094, 2.1995180774831797, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.417 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.236400449349118, 2.208938383351632, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.236400449349118, 2.1991908161763414, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4171 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.237120258277792, 2.198848632312311, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4172 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.2378535131484023, 2.208480067677015, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.2378535131484023, 2.1984913058695974, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4173 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.2386006696983536, 2.198118617038547, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4174 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.2393621928077945, 2.207955701229836, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.2393621928077945, 2.1977303464004057, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4175 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.2401385562144704, 2.1973262751135416, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4176 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.2409302421807813, 2.207362591195973, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.2409302421807813, 2.1969061851069225, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4177 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.2417377411097554, 2.1964698592810135, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4178 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.242561551106866, 2.2066996627900615, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.242561551106866, 2.196017081715719, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4179 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.243402850693975, 2.1955476378859835, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.418 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.2442652076559853, 2.2059639485627387, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.2442652076559853, 2.195061314884377, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4181 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.2451455009905383, 2.194557901650877, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4182 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.246044256765903, 2.2051516334777213, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.246044256765903, 2.1940371892101687, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4183 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.246962005669712, 2.1934989709155053, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4184 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.247899282175, 2.2042599779253753, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.247899282175, 2.1929430426999397, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4185 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.248856623630397, 2.1923692033340947, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4186 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.249834569271114, 2.203286256918936, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.249834569271114, 2.1917772546908783, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4187 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.2508336591483964, 2.1911670020162157, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4188 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.2518544329752688, 2.202227774402029, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.2518544329752688, 2.1905382542064586, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4189 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.252897428886323, 2.1898908240915667, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.419 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.253963182110512, 2.2010818788469293, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.253963182110512, 2.189224528723937, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4191 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.255052223555116, 2.188539189672782, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4192 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.2561650783008234, 2.199845980131915, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.2561650783008234, 2.1878346333234653, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4193 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.2573022640074147, 2.187110691181556, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4194 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.2584642892305578, 2.198517567664537, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.2584642892305578, 2.1863672001811243, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4195 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.2596516516514975, 2.1856040029967048, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4196 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.260864836220349, 2.1970942296913543, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.260864836220349, 2.1848209483589494, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4197 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.262104313217191, 2.1840178913726835, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4198 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.263371540594326, 2.19557367370777, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.263371540594326, 2.183194693837557, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4199 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.2646715845766425, 2.182351224570058, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.42 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.2659993666853606, 2.1939537478495756, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.2659993666853606, 2.1814907017438023, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4201 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.2673552799397125, 2.1806102246289143, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4202 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.268739691799739, 2.1922324631158525, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.268739691799739, 2.1797092212945053, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4203 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.270152941830654, 2.178787592155177, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4204 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.2715953393318244, 2.190408016235753, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.2715953393318244, 2.1778452462099853, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4205 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.273067160942247, 2.176882101358709, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4206 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.2745686482351073, 2.188478812956611, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.2745686482351073, 2.175898084715002, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4207 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.276100005315672, 2.1748931329152206, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4208 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.2776613964376846, 2.186443491492979, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.2776613964376846, 2.1738671924221067, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4209 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.279252943654692, 2.1728202198224063, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.421 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.280874724524331, 2.1843009458395852, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.280874724524331, 2.1717521821176837, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4211 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.282526769883569, 2.1706630570069203, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4212 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.284215725356837, 2.1820579482955886, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.284215725356837, 2.1695528331607195, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4213 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.285937066920462, 2.1684215104852247, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4214 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.287688626896097, 2.1797093228337405, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.287688626896097, 2.1672691003752007, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4215 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.2894702287287125, 2.1660956259556543, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4216 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.2912816395124276, 2.1772524029380715, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.2912816395124276, 2.1649011223101375, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4217 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.293122568614832, 2.163685636695405, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4218 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.294992666519868, 2.1746873208147712, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.294992666519868, 2.1624492287412957, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4219 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.296891523909361, 2.16119197063434, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.422 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.2988186710031213, 2.172014564604968, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.2988186710031213, 2.159913947284966, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4221 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.30077357717591, 2.1586166154786937, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4222 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.3027574810014277, 2.169234992957295, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.3027574810014277, 2.157303184735445, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4223 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.3047765944689425, 2.1559694094953, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4224 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.3068216571092437, 2.1663498467125244, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.3068216571092437, 2.1546154259864725, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4225 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.3088918936776563, 2.1532413836479756, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4226 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.310986470524613, 2.1633607572999547, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.310986470524613, 2.1518474451764433, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4227 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.31310449715798, 2.150433786550012, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4228 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.315245028151683, 2.1602714976762796, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.315245028151683, 2.1490005970286417, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4229 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.3174070653987786, 2.147548079130372, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.423 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.3195895607032675, 2.157095164531419, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.3195895607032675, 2.1460764485826207, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4231 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.3217924889451518, 2.144585934248505, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4232 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.3240243519103956, 2.1538225640673985, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.3240243519103956, 2.1430767780271855, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4233 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.3262733637391677, 2.1415492347284397, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4234 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.328538302093813, 2.1504568788462874, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.328538302093813, 2.1400035719206185, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4235 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.330817911904175, 2.138440069752526, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4236 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.3331109096761296, 2.1470016619238543, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.3331109096761296, 2.1368590207481826, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4237 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.3354159879952676, 2.135261133866219, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4238 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.3377318201929147, 2.1434608198537854, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.3377318201929147, 2.133652954422712, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4239 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.3400570651378145, 2.132028244276684, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.424 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.3424007421362485, 2.1398385911882882, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.3424007421362485, 2.1303873411066907, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4241 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.3447533505796487, 2.1287305935016985, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4242 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.3471113563941675, 2.1361443562392752, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.3471113563941675, 2.127058360602136, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4243 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.349473402590757, 2.125371011716147, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4244 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.35183814223754, 2.1323897641783858, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.35183814223754, 2.123668925912553, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4245 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.3542042432206736, 2.1219524915903336, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4246 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.3565703928603687, 2.1285684721308256, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.3565703928603687, 2.120222106026468, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4247 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.3589353023463264, 2.1184781749024917, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4248 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.361310112028837, 2.1246857238333705, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.361310112028837, 2.1167211118110583, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4249 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.3636816574292854, 2.114951337743607, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.425 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.366048271157174, 2.1207469289277956, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.366048271157174, 2.113169280560631, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4251 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.3684087931518936, 2.1113753744455233, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4252 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.3707621058403623, 2.1167576216432304, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.3707621058403623, 2.109577774083537, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4253 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.3731071369237924, 2.1077692757485265, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4254 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.3754428618217864, 2.112726234869275, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.3754428618217864, 2.1059502998850315, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4255 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.3777710326299424, 2.1041212980755297, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4256 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.3800980490746753, 2.108670313118873, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.3800980490746753, 2.1022827252978074, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4257 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.3824129415185618, 2.100435039316362, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4258 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.384714888886131, 2.104580898456397, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.384714888886131, 2.098578700068372, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4259 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.3870031250348984, 2.0967141690465403, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.426 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.3892769391154167, 2.100463567872929, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.3892769391154167, 2.0948419086801904, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4261 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.3915356756098554, 2.092962381716736, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4262 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.393778734065686, 2.096323810740597, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.393778734065686, 2.0910760506048898, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4263 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.396009924219836, 2.0891833768818397, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4264 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.3982324047357317, 2.0921669900798747, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.3982324047357317, 2.0872848205656362, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4265 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.4004376492638198, 2.085387242012355, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4266 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.402625267011512, 2.0880025784314897, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.402625267011512, 2.083486325234916, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4267 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.4047949173136933, 2.0815808999521805, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4268 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.4069463079658724, 2.083844664069394, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.4069463079658724, 2.079671412211753, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4269 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.40907919340563, 2.077758303676657, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.427 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.4111933727663577, 2.0796846324974374, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.4111933727663577, 2.075842011088046, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4271 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.4132909703945877, 2.0739229657444787, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4272 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.4153790633415704, 2.075526995918101, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.4153790633415704, 2.0720015929992464, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4273 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.417448001063238, 2.0700783117768777, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4274 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.419497739644963, 2.0713759973687407, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.419497739644963, 2.068153534109835, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4275 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.4215282691957554, 2.0662276646968794, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4276 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.423539611578164, 2.0672355940857714, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.423539611578164, 2.064301100483697, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4277 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.4255318181505947, 2.062374230266641, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4278 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.427504967536733, 2.0631135593958314, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.427504967536733, 2.0604534698277917, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4279 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.4294591634351494, 2.0585350745408215, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.428 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.4314010384192075, 2.05902202670785, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.4314010384192075, 2.056617473555225, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4281 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.433328725037719, 2.0547010181481427, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4282 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.435237804611266, 2.0549510105590736, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.435237804611266, 2.052786049889696, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4283 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.4371284611272808, 2.0508729004000608, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4284 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.4390008937431618, 2.0509032328891905, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.4390008937431618, 2.048961891132799, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4285 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.4408553150175996, 2.047053333185182, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4286 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.442691949232565, 2.046881110217603, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.442691949232565, 2.0451475271340946, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4287 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.444511030808893, 2.043244762898974, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4288 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.446312802816062, 2.042886760263207, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.446312802816062, 2.041345319630226, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4289 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.448101810750896, 2.0394494656234006, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.429 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.4498799864733214, 2.0389220113936566, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.4498799864733214, 2.0375574582585294, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4291 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.4516415346134535, 2.0356723609407426, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4292 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.4533867210680618, 2.0350032162747245, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.4533867210680618, 2.033796407339534, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4293 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.455115814353076, 2.031924978648906, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4294 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.4568290846547396, 2.031117861458755, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.4568290846547396, 2.030058287678368, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4295 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.458526802963835, 2.028196536425441, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4296 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.460209240289416, 2.0272658073042864, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.460209240289416, 2.026339916152064, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4297 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.4618766669484695, 2.0244886074813593, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4298 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.4635293519275634, 2.0234478596531598, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.4635293519275634, 2.022642780513071, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4299 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.4651733159579283, 2.020802594957666, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.43 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.4668068612397698, 2.0196646114115158, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.4668068612397698, 2.0189682002870732, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4301 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.468426385250937, 2.0171397359017424, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4302 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.470032147869566, 2.015916460475354, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.470032147869566, 2.015317331312787, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4303 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.4716244053781713, 2.013501106337887, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4304 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.4732034101719202, 2.0122051729780823, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.4732034101719202, 2.011691171310212, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4305 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.474769410511735, 2.0098891015297937, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4306 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.4763226503185165, 2.0085423569476317, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.4763226503185165, 2.008099182669131, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4307 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.477863369005068, 2.006315795510011, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4308 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.479391801342471, 2.004914665303666, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.479391801342471, 2.004539014571888, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4309 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.480909048319194, 2.0027689061232503, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.431 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.482422534566424, 2.001321896293545, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.482422534566424, 2.0010055284438018, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4311 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.48392434853312, 1.9992489320917626, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4312 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.485414706771485, 1.9977637404100752, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.485414706771485, 1.9974991601759309, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4313 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.486893820910468, 1.9957562486310534, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4314 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.4883618976675836, 1.9942397956748754, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.4883618976675836, 1.994020226495694, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4315 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.489819138876873, 1.992291116191799, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4316 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.491265741530704, 1.9907495819370644, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.491265741530704, 1.9905689338051225, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4317 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.492701897833654, 1.9888536893655844, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4318 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.494127758822708, 1.987292554118696, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.494127758822708, 1.9871453871268578, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4319 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.4955429894528924, 1.9854440258441632, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.432 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.4969495402795636, 1.9838763648308908, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.4969495402795636, 1.98374959905044, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4321 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.498353289928055, 1.982068060280464, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4322 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.4997482730890335, 1.9804971030369518, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.4997482730890335, 1.9803940116814256, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4323 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.501133816558311, 1.9787268157776423, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4324 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.5025100820721677, 1.9771489680188468, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.5025100820721677, 1.9770664481127451, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4325 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.503877227252487, 1.9754128803465418, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4326 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.505235405710313, 1.9738312691761288, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.505235405710313, 1.9737660805039592, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4327 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.5065845462033276, 1.9721260132185714, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4328 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.507924232685085, 1.9705433007960085, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.507924232685085, 1.9704926399696716, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4329 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.5092550289505784, 1.9688659193126838, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.433 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.5105774840783175, 1.9672843488445106, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.5105774840783175, 1.967245807103231, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4331 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.511894155381177, 1.965632256713708, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4332 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.5132044332714547, 1.9640536968272042, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.5132044332714547, 1.9640252192429537, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4333 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.5145117231479652, 1.9624246437183064, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4334 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.515811100921266, 1.9608506307838791, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.515811100921266, 1.9608304772903344, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4335 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.517102689393503, 1.9592426654198152, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4336 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.518386608351726, 1.9576788420144635, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.518386608351726, 1.9576611520571412, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4337 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.5196629746602435, 1.956087020705744, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4338 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.52093130385182, 1.954540907807182, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.52093130385182, 1.9545239404868693, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4339 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.5221910930431144, 1.9529669543156543, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.434 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.5234443373128603, 1.951428351562914, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.523443527353749, 1.9514160020662554, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4341 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.524688303805658, 1.9498710228850034, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4342 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.5259290151769966, 1.948340507867149, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.5259290151769966, 1.948331955323375, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4343 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.5271644250982503, 1.9467987374636162, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4344 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.5283935186562907, 1.9452751693221109, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.5283935186562907, 1.945271307036958, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4345 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.529618598985648, 1.9437496015347848, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4346 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.5308392577741112, 1.942231937436373, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.5308392577741112, 1.942231937436373, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4347 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.532053354955973, 1.9407189658160464, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4348 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.533260981110594, 1.9392116517883697, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.533260981110594, 1.9392116517883697, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4349 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.5344622248003406, 1.9377099185759057, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.435 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.5356570639609575, 1.9362161191879423, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.535655823196964, 1.9362161191879423, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4351 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.5368420792467647, 1.9347285778143133, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4352 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.538025803352139, 1.9332470795351886, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.5380222548626237, 1.9332470795351886, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4353 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.5391964256368382, 1.9317710590802106, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4354 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.5403703832231623, 1.930300641385867, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.54036667238347, 1.9302996856524768, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4355 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.5415334570781796, 1.9288336828769472, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4356 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.542694046393532, 1.927379740913871, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.542694046393532, 1.9273757722399396, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4357 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.5438504222682257, 1.9259234167773505, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4358 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.5450017142195187, 1.924478807736248, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.5450017142195187, 1.924475967894966, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4359 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.546150679262067, 1.923033368132904, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.436 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.5472940887418556, 1.9215973496477752, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.5472940887418556, 1.9215955607283899, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4361 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.5484320115831394, 1.920162489639574, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4362 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.5495645153318582, 1.9187335891399606, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.5495645153318582, 1.9187335891399606, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4363 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.550690358328628, 1.9173081541406112, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4364 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.551812733913921, 1.9158873047432143, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.5518100603185236, 1.9158873047432143, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4365 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.552924549562406, 1.9144709863112053, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4366 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.554038394331412, 1.9130591452656454, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.554033887616301, 1.9130591452656454, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4367 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.5551381349737308, 1.911651729056666, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4368 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.5562436704786804, 1.9102486861358317, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.556240795182315, 1.9102486861358317, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4369 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.557338813678727, 1.908851747223779, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.437 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.5584333442105716, 1.9074603678156286, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.5584333442105716, 1.9074603678156286, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4371 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.5595219389114536, 1.9060730174041494, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4372 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.5606082452370913, 1.9046900476661943, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.5606082452370913, 1.9046900476661943, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4373 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.5616919779978335, 1.9033114562841649, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4374 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.562770981528341, 1.9019389276641114, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.562770981528341, 1.9019372006053372, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4375 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.563845308790945, 1.9005672581737738, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4376 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.5649150117973814, 1.8992077963556924, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.5649150117973814, 1.899204016975514, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4377 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.565979080264539, 1.8978448083463517, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4378 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.567040107683085, 1.896492381114838, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.567037629780282, 1.8964894852380842, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4379 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.568091712763097, 1.8951380057762763, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.438 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.5691456049589356, 1.8937923440046203, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.5691413776052467, 1.8937903288000393, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4381 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.5701866718673454, 1.892446413849506, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4382 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.5712336079494267, 1.8911065973436971, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.571229823008435, 1.8911062211525926, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4383 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.5722704891147274, 1.8897685483942814, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4384 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.5733066744796416, 1.8884341486253708, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.5733066744796416, 1.8884341486253708, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4385 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.5743400763460054, 1.8871033602585607, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4386 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.5753685163328566, 1.8857761461462768, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.5753685163328566, 1.8857761461462768, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4387 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.5763966832717116, 1.884452469756966, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4388 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.577421065873532, 1.883132295160772, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.577421065873532, 1.883132295160772, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4389 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.5784414014372348, 1.8818155870155746, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.439 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.5794577310830253, 1.8805039432999429, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.5794577310830253, 1.8805039432999429, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4391 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.580470095266895, 1.8791967389774797, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4392 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.58147853379576, 1.8778931033989188, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.581476887978872, 1.8778931033989188, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4393 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.5824794702290235, 1.876593001644592, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4394 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.5834817280336795, 1.875296399347462, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.5834782111396186, 1.875296399347462, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4395 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.5844731486037897, 1.8740032626822667, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4396 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.585469509924937, 1.8727156935748361, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.5854643199204874, 1.872713558358013, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4397 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.586453956582588, 1.8714272536442098, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4398 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.5874423625553775, 1.870150084479965, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.5874420554672426, 1.8701464465637838, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4399 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.5884254659681427, 1.8688687644406177, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.44 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.5894068773852195, 1.8675969803530588, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.5894068773852195, 1.867594177778641, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4401 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.590384091068647, 1.8663226575290548, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4402 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.59136084021244, 1.8650561469207632, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.59136084021244, 1.8650541750806553, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4403 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.5923347167578523, 1.8637887022500792, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4404 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.593305080102576, 1.8625265823808075, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.593305080102576, 1.8625262112727012, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4405 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.5942719629841346, 1.8612656053796914, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4406 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.595235397659999, 1.8600075597581334, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.595235397659999, 1.8600075597581334, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4407 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.5961943388429023, 1.8587524189124907, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4408 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.5971514755657337, 1.8575001566240077, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.5971490803107264, 1.8575001566240077, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4409 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.5981004733862227, 1.856250747051013, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.441 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.599052556556527, 1.8550041647211986, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.5990485484524872, 1.8550041647211986, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4411 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.5999933354604283, 1.8537603845241784, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4412 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.6009404750879654, 1.852519381704057, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.6009358917043555, 1.852519381704057, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4413 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.6018776223127547, 1.8512835363133828, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4414 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.6028158657918707, 1.8500506138199007, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.6028158657918707, 1.8500506138199007, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4415 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.603752584459742, 1.8488205889658982, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4416 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.604684868263828, 1.847593436844209, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.604684868263828, 1.847593436844209, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4417 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.6056158328443746, 1.8463691328919156, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4418 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.606546179358418, 1.845148138994805, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.606546179358418, 1.8451476528838486, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4419 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.6074734402407023, 1.8439289729217239, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.442 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.608397642107427, 1.8427171856188758, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.608397642107427, 1.8427131393019, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4421 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.6093188112179524, 1.841501902893104, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4422 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.610236973481612, 1.840296459423493, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.610236973481612, 1.8402932008651394, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4423 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.6111508316676084, 1.8390870120752414, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4424 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.6120637034581318, 1.837885790054464, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.6120612379300083, 1.8378833156588648, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4425 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.612968718168939, 1.83668209102445, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4426 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.6138773136127478, 1.8354850116145034, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.6138732969179825, 1.835483317848694, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4427 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.614774998392703, 1.8342869760717946, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4428 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.6156794056956265, 1.833092620042053, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.615674618099311, 1.833092620042053, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4429 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.616574268954728, 1.8318997258214453, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.443 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.61747016985475, 1.830709207267946, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.61747016985475, 1.830709207267946, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4431 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.6183649098538493, 1.8295210452961914, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4432 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.619256738322225, 1.8283352210608956, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.619256738322225, 1.8283352210608956, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4433 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.6201455807996825, 1.8271517159526782, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4434 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.6210352842168083, 1.8259705115937221, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.6210352842168083, 1.8259705115937221, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4435 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.6219222732702545, 1.8247915898335823, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4436 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.62280656971835, 1.823614932745367, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.62280656971835, 1.823614932745367, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4437 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.623688195052865, 1.8224429360920191, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4438 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.6245671705035987, 1.8212733414361706, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.6245671705035987, 1.8212733414361706, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4439 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.625442947658695, 1.8201061303619517, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.444 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.626317043693873, 1.8189412846376132, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.626314929738625, 1.8189412846376132, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4441 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.6271843282141507, 1.8177787866782804, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4442 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.628054778234551, 1.8166182920909648, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.6280511631420276, 1.8166182920909648, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4443 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.6289154543076343, 1.815460017599957, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4444 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.6297823328107577, 1.8143081919154047, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.6297772212235118, 1.8143040656838476, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4445 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.6306386366534906, 1.8131525633066938, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4446 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.6314998643933993, 1.812006505199102, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.6314980883705816, 1.8120031508857843, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4447 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.6323565353302847, 1.810855813605246, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4448 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.6332119704208, 1.8097131068090668, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.6332119704208, 1.8097105369778421, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4449 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.6340649918287062, 1.808567306863907, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.445 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.6349170900238814, 1.8074278747736814, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.6349170900238814, 1.8074261094922426, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4451 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.635768957358121, 1.806286931483837, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4452 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.6366184333460883, 1.8051499863328524, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.6366184333460883, 1.8051497598782225, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4453 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.637465535885938, 1.8040134470650988, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4454 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.6383102826756275, 1.8028788767498234, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.6383102826756275, 1.8028788767498234, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4455 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.639152691216188, 1.8017462611215942, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4456 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.639992778815089, 1.8006155860723594, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.6399918424514257, 1.8006155860723594, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4457 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.640827863148966, 1.7994868376489566, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4458 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.6416648783708276, 1.7983600020502606, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.6416615879754333, 1.7983600020502606, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4459 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.6424930315660378, 1.7972350656246705, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.446 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.643327157562892, 1.7961120148672907, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.643322208106206, 1.7961120148672907, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4461 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.644149131307447, 1.7949908364172549, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4462 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.6449805005777427, 1.7938739047628396, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.6449760475735378, 1.7938739047628396, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4463 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.645801757586107, 1.792758964168949, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4464 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.646625541884416, 1.7916460583424019, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.646625541884416, 1.7916460583424019, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4465 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.6474479319030797, 1.7905346064885803, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4466 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.6482677407593247, 1.7894248542560405, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.6482677407593247, 1.7894248542560405, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4467 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.649085325780785, 1.788317376568925, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4468 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.649904107044593, 1.7872145609650016, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.649904107044593, 1.787209756903966, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4469 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.650720846396168, 1.7861078613835495, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.447 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.6515354764667753, 1.7850131947117225, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.6515354764667753, 1.7850076565954167, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4471 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.6523473463290177, 1.7839091220888055, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4472 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.6531584680568066, 1.7828183155077713, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.6531554997217146, 1.782812236524125, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4473 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.653961503218699, 1.7817169775737352, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4474 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.654773198990058, 1.780629875040051, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.654765361168506, 1.7806233218154064, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4475 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.6555670768540316, 1.7795312446182487, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4476 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.6563786442337536, 1.7784481113100086, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.6563666524293614, 1.778440720020673, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4477 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.657164088853289, 1.7773517206000897, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4478 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.6579755347819485, 1.7762729004312894, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.6579593858196966, 1.7762642173339624, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4479 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.6587525416843727, 1.7751781794516828, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.448 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.659564586269962, 1.7741036361388467, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.6595474892076676, 1.7740935742770185, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4481 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.6603415591726898, 1.773010367060842, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4482 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.6611460444519026, 1.7719405347418176, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.661133461588598, 1.7719285208033853, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4483 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.6619231885857544, 1.7708479960660666, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4484 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.662724696975721, 1.7697838406230146, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.6627107305261446, 1.7697687507721758, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4485 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.6634960759081747, 1.7686907399961498, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4486 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.664300561312093, 1.7676334621388519, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.6642792112675644, 1.7676139157411925, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4487 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.665060121074519, 1.7665382267044984, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4488 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.6658709149478614, 1.7654900628006864, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.665838787626929, 1.765463618030121, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4489 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.6666151909397824, 1.7643900310488025, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.449 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.6674331927532395, 1.7633508911629499, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.6673893086306055, 1.763317403004806, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4491 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.6681611158009755, 1.7622456667688278, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4492 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.668986500812153, 1.7612174882381995, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.6689305849141034, 1.7611747505372057, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4493 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.669697685668444, 1.7601045775170625, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4494 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.670532292670921, 1.759096432311488, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.6704623848673963, 1.7590350655967306, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4495 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.6712246462850255, 1.7579693940342445, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4496 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.672070586868087, 1.7569799891239606, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.671984430527924, 1.7569048928720592, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4497 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.6727416948930642, 1.7558407710906538, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4498 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.6736013814161455, 1.7548677560669728, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.6734988690343644, 1.754776922127286, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4499 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.674255945807554, 1.7537132322553979, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.45 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.675124649923423, 1.752759261819096, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.675010336661137, 1.752649580166008, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4501 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.675761983741902, 1.751585836533761, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4502 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.676647113739141, 1.7506539539378252, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.676510825091681, 1.7505218635677804, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4503 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.677256794481968, 1.7494575145470048, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4504 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.6781651650869613, 1.7485511847483237, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.677999821244955, 1.7483926333408149, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4505 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.6787398301013607, 1.747327053914792, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4506 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.6796753687991197, 1.7464501953766116, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.6794767409850238, 1.7462605998218907, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4507 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.680210468864448, 1.745193083679752, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4508 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.6811775459887395, 1.74435009777491, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.6809409235614727, 1.744124306634205, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4509 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.6816680095673586, 1.743054057810304, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.451 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.6826714617035763, 1.7422498545908618, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.682391625856283, 1.7419821137505858, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4511 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.6831116656966487, 1.7409082378424405, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4512 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.684156815533926, 1.7401482567427196, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.6838280164604646, 1.7398321797348122, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4513 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.6845405594308636, 1.7387536747455155, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4514 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.685633230928812, 1.7380438985753712, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.6852491696083813, 1.737672443260847, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4515 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.6859537155161135, 1.7365881901283138, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4516 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.687100243100739, 1.7359351504959155, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.6866540590041406, 1.7355006040441776, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4517 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.687351191462623, 1.7344093569381491, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4518 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.6885572853970445, 1.7338201290173314, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.688047299854139, 1.7333141033562578, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4519 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.688738718644414, 1.7322144798449446, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.452 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.690006111340258, 1.7317031236448446, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.6894252798625518, 1.731110104338235, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4521 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.6901068078387014, 1.730004135946326, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4522 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.691450628115923, 1.729576751390589, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.6907831190127567, 1.728893225652849, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4523 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.691454021745991, 1.7277763239554764, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4524 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.692882622023096, 1.7274366529678502, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.692119316136542, 1.7266529701251594, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4525 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.6927787938392704, 1.7255226819886154, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4526 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.694300939751715, 1.7252795904282225, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.693432237890936, 1.724384955401956, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4527 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.6940794225416136, 1.7232392637514695, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4528 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.6957042295661666, 1.7231018861861862, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.694720113093359, 1.7220850574866018, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4529 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.695354065747118, 1.7209217636900134, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.453 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.6970909160303527, 1.7208993796153775, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.6959810274588825, 1.7197487856900375, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4531 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.696600735806671, 1.718565502721596, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4532 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.698459172587541, 1.71866738268489, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.6972129188691936, 1.7173712696416066, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4533 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.6978172951178743, 1.7161654167050118, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4534 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.699806892032101, 1.7164006354475783, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.6984135733236814, 1.7149472494096552, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4535 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.69900145248007, 1.7137160484155662, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4536 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.701131654980539, 1.7140932624399317, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.6995806217442095, 1.7124710695484202, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4537 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.700150760397832, 1.7112115438940434, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4538 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.702430696542409, 1.7117387313446077, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.700711537829666, 1.7099366779927079, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4539 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.7012632879622487, 1.7086456541434365, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.454 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.703701858599391, 1.7093298156062242, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.7018079134334867, 1.7073376308261161, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4541 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.702342055594297, 1.7060117432524091, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4542 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.704947899993392, 1.7068585630855595, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.702865342011084, 1.7046671040550483, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4543 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.7033773906028187, 1.7033039560408378, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4544 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.706157251270242, 1.704322961066097, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.703877809800483, 1.701924349107269, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4545 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.704366198744562, 1.700523286846463, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4546 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.707325379689167, 1.7017101932752166, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.704842147523634, 1.69909980542493, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4547 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.7053052374564737, 1.6976529244076317, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4548 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.7084472276126506, 1.6990070671806816, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.705755041421041, 1.6961816484998287, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4549 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.7061911242330114, 1.6946849695030974, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.455 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.7095171822956923, 1.6962026771298562, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.706613043077031, 1.6931618684960517, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4551 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.70702034799379, 1.6916113182508936, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4552 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.710529051428384, 1.6932854349350321, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.70741258242598, 1.6900322858946626, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4553 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.7077892838263016, 1.6884237358252776, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4554 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.711476047164457, 1.6902431456816727, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.708149984330379, 1.6867846328897957, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4555 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.7084942114982127, 1.6851139458334972, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4556 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.712350782024363, 1.70199987713891, 1.68706311792304, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.708821489126182, 1.70199987713891, 1.6834106510241007, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4557 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.7091313381334836, 1.7015721900553837, 1.6816737364575434, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4558 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.7131452807883196, 1.701191268302235, 1.6837323139410845, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.709423277524848, 1.701191268302235, 1.679902206046326, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4559 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.7096968254326206, 1.7008602659456107, 1.6780950841925846, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.456 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.713851013255736, 1.7005824763196324, 1.6802375456509533, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.7099515002400665, 1.7005824763196324, 1.676253640770388, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4561 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.7101868217880654, 1.700361327190948, 1.6743798103224081, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4562 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.7144589534852863, 1.7002003737665394, 1.6765762012782655, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.7104023126671875, 1.7002003737665394, 1.6724677899563603, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4563 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.710597499595534, 1.700103289245978, 1.6705167412252446, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4564 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.714959671751623, 1.7000738525996768, 1.672729601947793, 0, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.7107719148843583, 1.7000738525996768, 1.6685258730158905, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4565 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.7268383825293743, 2.7109250979905792, 1.700115933249513, 1.6664944476703256, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4566 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.7279455640687136, 2.7153434658234046, 1.7002334723194072, 1.6686821225955348, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.7279455640687136, 2.7110565971568943, 1.7002334723194072, 1.664421787314596, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4567 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.7290817002388073, 2.711165971138402, 1.7004304601345546, 1.6623072803680672, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4568 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.7302480885078446, 2.7156005381021293, 1.700710909663738, 1.664423043308374, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.7302480885078446, 2.711252791013752, 1.700710909663738, 1.6601503882014987, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4569 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.7314459620811986, 2.711316642079153, 1.701078825630274, 1.6579506519091176, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.457 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.732677712824957, 2.7157212244366242, 1.701538169072129, 1.6599432762169621, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.732677712824957, 2.7113571258217948, 1.701538169072129, 1.6557076991525084, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4571 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.733950642845722, 2.7113738619687844, 1.7020928171955034, 1.6534212510303186, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4572 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.7352584023553366, 2.715696278778543, 1.7027465184651003, 1.6552358737559447, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.7352584023553366, 2.711366490606559, 1.7027465184651003, 1.6510911289214567, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4573 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.7366017475732147, 2.7113346743652476, 1.703502842990337, 1.6487251632766726, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4574 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.737981249422182, 2.7155172150058187, 1.704365128412253, 1.65030759935044, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.737981249422182, 2.7112781006605817, 1.704365128412253, 1.6463171869605604, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4575 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.739397266539384, 2.7111964839854177, 1.70533642166996, 1.6438658598239295, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4576 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.74084991853625, 2.7151767029844263, 1.7064194172233724, 1.6451558301854399, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.74084991853625, 2.711089568242227, 1.7064194172233724, 1.641371470561139, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4577 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.7423390602533204, 2.7109571291052124, 1.7076163925321968, 1.6388344393329766, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4578 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.743864257863847, 2.7146690101528286, 1.7089291418316803, 1.6397747962157943, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.743864257863847, 2.7107989764015805, 1.7089291418316803, 1.6362553230442127, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4579 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.7454247677718207, 2.7106149564987243, 1.7103589094971614, 1.6336348200919433, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.458 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.747028175910139, 2.7139904726910546, 1.7119094565270037, 1.634171396041732, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.747028175910139, 2.7104049546834865, 1.7119094565270037, 1.6309737744968664, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4581 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.7486671413891233, 2.7101688975186122, 1.7135806028770284, 1.6282731793304324, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4582 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.75033741027292, 2.71313997207589, 1.715369004549575, 1.6283570959959757, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.75033741027292, 2.7099067551603593, 1.715369004549575, 1.6255341793481992, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4583 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.752036866129013, 2.7096185436195785, 1.717273084934332, 1.6227690018718186, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4584 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.7537630521679732, 2.7121193843204883, 1.7192904367285837, 1.6223699464745245, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.7537630521679732, 2.7093043269489128, 1.7192904367285837, 1.619968745296967, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4585 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.7555131875172942, 2.7089642193359587, 1.721417792062883, 1.6171346146399288, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4586 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.757284192185629, 2.7109339616675006, 1.7236510064021733, 1.6162127786126488, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.757284192185629, 2.7085983870835975, 1.7236510064021733, 1.6142683640175408, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4587 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.7590738864355235, 2.7082070504560782, 1.7259850581881144, 1.6113718969628945, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4588 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.760889070076331, 2.7095926015407774, 1.7284140658530804, 1.609908640616423, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.760889070076331, 2.7077904853706265, 1.7284140658530804, 1.6084472626035389, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4589 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.762714549996108, 2.7073490249124923, 1.730931323382737, 1.6054966505460713, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.459 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.7645464392332393, 2.7081079569258355, 1.7335293550279218, 1.6034874556795369, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.7645464392332393, 2.706883060653035, 1.7335293550279218, 1.6025223844345442, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4591 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.766380794197167, 2.706393043748075, 1.7361999890985176, 1.5995338419231122, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4592 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.7682136794813883, 2.706496347651015, 1.7389344500296615, 1.597009330726368, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.7682136794813883, 2.705879485797553, 1.7389344500296615, 1.5965325164449862, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4593 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.7700412337114293, 2.7053429594441734, 1.7417329756296103, 1.593515347977294, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4594 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.7718597341643165, 2.704777444275474, 1.7445774365602886, 1.5904823087809077, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.7718597341643165, 2.704777444275474, 1.7445774365602886, 1.5904823087809077, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4595 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.773446639592413, 2.7037843786087477, 1.7465074854183682, 1.5868925982935995, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4596 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.77521887535259, 2.7027773281191516, 1.7492693549319591, 1.583337537391364, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.775026471804252, 2.7027773281191516, 1.7484800038827017, 1.583337537391364, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4597 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.776606568410436, 2.7017624428129015, 1.750497175523357, 1.5798333580451491, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4598 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.778552254804464, 2.700743991331111, 1.7541285288199313, 1.5763741973746985, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.778185693371142, 2.700743991331111, 1.7525569208597385, 1.5763741973746985, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4599 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.7797626081374416, 2.6997261159598374, 1.7546570307330782, 1.5729656167215116, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.46 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.781851237745401, 2.6987127743788624, 1.7591218582433414, 1.5696122892891438, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.78133607877757, 2.6987127743788624, 1.7567951711410539, 1.5696122892891438, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4601 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.7829157691077473, 2.6977076865990157, 1.7589688889144894, 1.566317978816677, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4602 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.785120588593264, 2.696714288628364, 1.7642173454909935, 1.5630855435258655, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.7844898171258055, 2.696714288628364, 1.7611805946171581, 1.5630855435258655, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4603 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.7860567774297897, 2.6957356941179005, 1.7634259783906978, 1.5599255245383439, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4604 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.7883339561526244, 2.6947746648890365, 1.7693796326190987, 1.5568362069658948, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.787615499471829, 2.6947746648890365, 1.765699044001085, 1.5568362069658948, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4605 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.789164873988177, 2.693833590865567, 1.7679969243442106, 1.5538120698680402, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4606 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.791476739158047, 2.6929144795405837, 1.7745561672566117, 1.5508528080614248, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.7907038399354422, 2.6929144795405837, 1.7703166732953177, 1.5508528080614248, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4607 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.792231391105152, 2.692020535369491, 1.7726552760179786, 1.5479575177671572, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4608 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.7945413745045893, 2.6911558359572973, 1.779707245106844, 1.545124787769465, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.793746582337706, 2.6911558359572973, 1.7750096598871312, 1.545124787769465, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4609 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.7952561144888097, 2.69031667955339, 1.7773767059584575, 1.5423527916971884, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.461 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.7975388614222587, 2.6895036104189103, 1.7847953165970931, 1.5396454890790514, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.7967546650317407, 2.6895036104189103, 1.7797532609142386, 1.5396454890790514, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4611 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.798238341672743, 2.68871686347152, 1.782136149403675, 1.537001195484142, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4612 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.800455477653873, 2.687956395676221, 1.7897860588125476, 1.5344103676939689, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.7997064901221553, 2.687956395676221, 1.7845221866939662, 1.5344103676939689, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4613 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.8011585403330317, 2.687221920207883, 1.786908191543246, 1.5318703727078584, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4614 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.803285794766939, 2.686512942102519, 1.7946651135102765, 1.5293785478614288, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.8025940089595576, 2.686512942102519, 1.7892959348978135, 1.5293785478614288, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4615 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.804012501027055, 2.685828794212573, 1.791681310691434, 1.5269322519960185, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4616 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.8060318552360126, 2.6851686724235546, 1.7993932556324213, 1.5245289071816788, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.8054137107966546, 2.6851686724235546, 1.7940572346841945, 1.5245289071816788, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4617 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.8067974218190432, 2.6845316692501218, 1.7964206580028885, 1.522166031412202, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4618 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.808702672434469, 2.6839168051098365, 1.803948109156447, 1.5198496647947495, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.808172657195478, 2.6839168051098365, 1.798768599823168, 1.5198496647947495, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4619 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.8095307714128097, 2.6833230567494635, 1.8010981596009694, 1.5175726794573208, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.462 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.81131161642216, 2.6827493824707322, 1.8083153663593858, 1.5153294061631648, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.810871139194071, 2.6827493824707322, 1.80340652885312, 1.5153294061631648, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4621 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.812193886588139, 2.6821947439593607, 1.805691002398791, 1.5131179281086888, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4622 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.813850845194121, 2.681658124659464, 1.8124863800760205, 1.51093648006124, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.813499218209585, 2.681658124659464, 1.8079489889774167, 1.51093648006124, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4623 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.814787412913806, 2.6811385447506493, 1.810178021165882, 1.5087834447694672, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4624 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.816326978938697, 2.680635072878746, 1.8164579227288968, 1.506657346564738, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.8160588189227775, 2.680635072878746, 1.8123757645228868, 1.506657346564738, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4625 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.817313848473462, 2.6801468348616195, 1.8145400258977185, 1.504556842917496, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4626 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.8187467725811475, 2.6796730196417777, 1.8202385466867617, 1.5024863461134261, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.8185529720674647, 2.6796730196417777, 1.8166713958846639, 1.5024863461134261, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4627 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.819778748177747, 2.6792128827879886, 1.8187706213904764, 1.500444914877023, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4628 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.821120653005842, 2.6787657478647255, 1.8238342657369029, 1.4984257060458068, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.8209963982699535, 2.6787657478647255, 1.8208305623950591, 1.4984257060458068, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4629 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.8221997407186143, 2.678333682350808, 1.8228496492371593, 1.4964278100737014, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.463 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.8234638495834483, 2.677913703830987, 1.827247348583237, 1.4944503974273033, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.8233894208153116, 2.677913703830987, 1.8248264815377202, 1.4944503974273033, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4631 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.824566110456586, 2.6775050168808363, 1.8267598306541268, 1.4924927087096178, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4632 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.8257687599652503, 2.6771072020313564, 1.830490288850252, 1.4905540455458155, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.8257305016731693, 2.6771072020313564, 1.8286486410968108, 1.4905540455458155, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4633 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.82688330031942, 2.6767198248008133, 1.8304920309144042, 1.4886337623388495, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4634 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.8280403244745482, 2.676341187438093, 1.8335775082895187, 1.4867326584621496, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.828025219989118, 2.676341187438093, 1.832289291066777, 1.4867326584621496, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4635 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.8291569762169595, 2.6759732459618726, 1.834039883808039, 1.4848552343341315, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4636 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.8302827632608123, 2.675615513132892, 1.8365245214194843, 1.4829958402831112, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.830279281018048, 2.675615513132892, 1.8357434401140367, 1.4829958402831112, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4637 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.831392837809268, 2.675264886935922, 1.837399756192043, 1.481154262415136, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4638 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.8324995882020283, 2.6749290373822325, 1.8393440797483989, 1.4793331776796699, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.8324995882020283, 2.6749238800829787, 1.8390087891194413, 1.4793284498505717, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4639 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.8336026379926484, 2.6745949056872913, 1.8405706516618263, 1.4775216096552182, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.464 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.834701493583312, 2.6742790869664064, 1.8420608633155116, 1.4757292093333736, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.834701493583312, 2.67426126641302, 1.8420608633155116, 1.4757292093333736, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4641 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.8357957138927756, 2.673888311788407, 1.8433814464693634, 1.4739482989229358, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4642 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.8368889531631916, 2.6736638790323553, 1.844680127054411, 1.4721814249313425, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.8368877175504275, 2.673535701156079, 1.844680127054411, 1.4721814249313425, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4643 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.83797030985152, 2.6732031628400295, 1.8459584886272633, 1.4704337219641623, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4644 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.8390611714749947, 2.67308239901824, 1.8472218833169232, 1.4686998201255541, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.839048471354044, 2.6728903697286523, 1.8472218833169232, 1.4686998201255541, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4645 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.8401227115350056, 2.672596943180083, 1.848468661256287, 1.4669851624877412, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4646 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.8412152867611065, 2.6725342566919523, 1.8496991119586745, 1.465283179753107, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.841193505870159, 2.6723224571207687, 1.8496991119586745, 1.465283179753107, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4647 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.842261295288626, 2.6720664423028038, 1.8509143359094289, 1.4635936920609556, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4648 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.8433523077762053, 2.672019533267451, 1.8521153003752755, 1.4619165465512551, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.8433264860134413, 2.6718283906859157, 1.8521153003752755, 1.4619165465512551, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4649 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.8443894497574083, 2.67160775990923, 1.8533028382265575, 1.4602516113238662, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.465 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.8454750266374007, 2.6715386301399136, 1.8544776481586334, 1.4585986032129405, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.845457207776228, 2.6714039778197125, 1.8544776481586334, 1.4585986032129405, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4651 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.8465243485146847, 2.6712164470247153, 1.8556402961827434, 1.456957915162724, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4652 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.8475896922211597, 2.671092127532085, 1.8567912182499142, 1.4553316521527648, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.8475896922211597, 2.671044549436682, 1.8567912182499142, 1.4553316521527648, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4653 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.8486464914271923, 2.670879410586505, 1.8579097903432527, 1.4537202364094006, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4654 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.8497023903179715, 2.670675296876604, 1.859011853462345, 1.4521274931398631, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.8497023903179715, 2.6706597643973264, 1.858864180263417, 1.452104835019158, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4655 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.8507531485054702, 2.670445114482492, 1.8597878318528682, 1.4504963216891291, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4656 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.8517990603378514, 2.670285915445877, 1.8611259887770732, 1.448956048821988, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.8517990603378514, 2.670235482621585, 1.8606822323765064, 1.4488945358401384, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4657 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.8528419547884414, 2.6700309370030326, 1.8615488649661813, 1.4472993708292723, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4658 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.85388196586895, 2.669925954611383, 1.8631594169322498, 1.4458218957542974, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.85388196586895, 2.6698315893195983, 1.8623892000656295, 1.4457107698278835, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4659 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.854919238161531, 2.6696375917465462, 1.8632046872633627, 1.444128721636564, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.466 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.8559539276589168, 2.669595068687387, 1.865111619916759, 1.4427363600842276, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.8559539276589168, 2.6694491338483646, 1.863996747547368, 1.442553256487359, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4661 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.8569862024093613, 2.6692664394539607, 1.8647667660083684, 1.4409951326850416, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4662 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.8580162429736387, 2.6692931531382595, 1.8669825556212372, 1.4396951939385179, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.8580162429736387, 2.6690897635390916, 1.8655160850164496, 1.439445398358521, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4663 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.859051292618171, 2.6689193891479834, 1.8662459978870771, 1.4379026171863145, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4664 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.8600848937619814, 2.6690203880480774, 1.8687726687209338, 1.4366865091298977, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.8600848937619814, 2.6687556243845623, 1.86695774305102, 1.4363669452450976, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4665 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.861116868401989, 2.66859879949862, 1.867652498734223, 1.4348385600940492, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4666 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.862147449902123, 2.6687772697737513, 1.870482849387838, 1.4337092726709024, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.862147449902123, 2.668449264088898, 1.8683313781488344, 1.4333176572630106, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4667 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.8631768840463194, 2.6683073844421754, 1.8689954251924927, 1.4318044469301696, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4668 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.864205428588867, 2.6685646286968656, 1.8721143448167392, 1.4307836622319612, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.864205428588867, 2.668173541023549, 1.869645610643294, 1.4303078225120207, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4669 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.8652333526972176, 2.6680481261307163, 1.87028282883617, 1.4288236075101535, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.467 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.866260936300735, 2.6683836324188537, 1.8736686295098512, 1.4278928098182613, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.866260936300735, 2.6679315417218015, 1.8709078947949969, 1.4273478506971866, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4671 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.867288469358451, 2.6678241974244474, 1.871522764364681, 1.4258807922761276, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4672 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.8683162510593903, 2.6682357750772017, 1.8751472407649452, 1.4250325943868984, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.8683162510593903, 2.66772650873062, 1.8721279863770537, 1.4244226736234753, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4673 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.869344588967899, 2.667638895380397, 1.8727229643582242, 1.4229737352403213, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4674 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.870373798126299, 2.6681228546364277, 1.8765536311665016, 1.4222118571684477, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.870373798126299, 2.667561779935235, 1.8733081771868274, 1.4215342149046166, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4675 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.871411134174225, 2.667495586540451, 1.87388401532796, 1.4201165004732104, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4676 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.872450540970325, 2.668046940989456, 1.8778899726177256, 1.4194401971889505, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.872450540970325, 2.6674407398738023, 1.8744507798327703, 1.4187100925013072, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4677 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.8734918128009768, 2.66739766427707, 1.8750086814359774, 1.4173138669276024, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4678 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.874535287537504, 2.668010338495971, 1.8791533171756734, 1.4167007720547253, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.874535287537504, 2.6673667830655674, 1.875557839668083, 1.4159280369928404, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4679 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.8755813057955746, 2.667348518010021, 1.876098281890686, 1.4145528067981687, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.468 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.8766302099845107, 2.6680155472169167, 1.8803433278571846, 1.4139954235203063, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.8766302099845107, 2.6673432889847186, 1.876629942154909, 1.4131883704463086, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4681 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.8776823433747847, 2.6673515137763637, 1.877152659773789, 1.4118421905955232, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4682 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.878738049188242, 2.668065227644624, 1.881458590017928, 1.4113503513000403, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.878738049188242, 2.6673736080473596, 1.8776661774898087, 1.4105140741642113, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4683 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.8797976697160586, 2.6674099854501847, 1.878170139111101, 1.4091973599445575, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4684 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.880861545467935, 2.6681621742549857, 1.882496350618158, 1.408740048700547, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.880861545467935, 2.6674610578902342, 1.8786640864797906, 1.4078921977914916, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4685 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.8819300143568363, 2.667527235938143, 1.8791474556275483, 1.4065987248462197, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4686 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.8830049968457647, 2.6683093038209615, 1.883452251921361, 1.406165150729874, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.8830049968457647, 2.667608929397407, 1.8796195719660462, 1.405317065104216, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4687 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.884091473533166, 2.667706548038111, 1.8800796443522878, 1.4040546901058029, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4688 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.885183573633044, 2.6685096652014746, 1.884320060352626, 1.4036547530939674, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.885183573633044, 2.667820502516298, 1.88052675786124, 1.4028118655540114, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4689 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.8862816197048144, 2.6679512055072583, 1.8809598650977217, 1.4015812566670356, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.469 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.8873859283530816, 2.668766478308223, 1.8850913912849956, 1.4011821301226108, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.8873859283530816, 2.6680990730942042, 1.8813777758718737, 1.4003629357243097, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4691 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.8884968097924193, 2.6682645264679077, 1.8817791450674337, 1.3991569606085292, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4692 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.889614567535704, 2.669083211116811, 1.885755431168414, 1.398750315723528, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.889614567535704, 2.6684479940113293, 1.882162458534595, 1.3979633746847693, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4693 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.8907394982366914, 2.668649913864268, 1.8825260168477707, 1.3967953241374425, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4694 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.891871891725273, 2.6694637047692975, 1.8862986594563427, 1.3963840718920832, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.891871891725273, 2.6688707370880502, 1.882867916785399, 1.3956423440624697, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4695 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.893012031281079, 2.66911093157848, 1.8831860304091463, 1.394501950040309, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4696 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.894160194198703, 2.669912357675144, 1.886704573579504, 1.3940565958181212, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.894160194198703, 2.669370986907384, 1.883477981653715, 1.3933741399381916, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4697 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.895318284539313, 2.669651420307781, 1.8837411203789867, 1.3922589020715594, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4698 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.89649174946667, 2.6704343795115517, 1.8869534195011028, 1.39178453240947, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.89649174946667, 2.669952784055386, 1.8839724938933446, 1.3911653887653563, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4699 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.8976741078278554, 2.670275674536695, 1.8841688160283474, 1.3900919575056516, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.47 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.8988656285161314, 2.6710361244336807, 1.887021926050487, 1.3895715217588607, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.8988656285161314, 2.670620743331402, 1.8843264339353436, 1.3890312495487567, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4701 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.9000665838462028, 2.6709887106683174, 1.8844412928861145, 1.3879832716421727, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4702 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.9012772531669495, 2.671725508871293, 1.8868830302873196, 1.387404263218325, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.9012772531669495, 2.671380381637225, 1.8845088994976653, 1.3869480517703965, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4703 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.902497927097846, 2.6717966655459797, 1.8845242839665668, 1.385937417955085, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4704 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.903728912322006, 2.6725125125292077, 1.886505560011031, 1.3853188166710129, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.903728912322006, 2.672238598793783, 1.8844819620960855, 1.3849459861191378, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4705 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.9049705367822667, 2.672707371577976, 1.8843758981335972, 1.3839679642022833, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4706 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.906223155005673, 2.6734097518443596, 1.8858538053094225, 1.3832867309776475, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.906223155005673, 2.6732043586451084, 1.8841994697067654, 1.3830036469511835, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4707 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.9074879946177274, 2.673731154122652, 1.8839454364619037, 1.3820570128483436, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4708 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.908773030639288, 2.674433104505466, 1.8848868647393837, 1.3813491180679152, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.908773030639288, 2.67428961019849, 1.8836059143624093, 1.3811409993694592, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4709 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.9100704143519485, 2.6748818790313083, 1.883172358002391, 1.3802408420038361, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.471 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.9113806453800715, 2.6756023536577596, 1.8835576052399627, 1.3794895165264602, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.9113806453800715, 2.6755104567427925, 1.882635553728407, 1.3793575685100057, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4711 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.9127042544209973, 2.6761782276401362, 1.8819856268281883, 1.3784952878607992, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4712 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.9140417903215567, 2.676941810776122, 1.8818110640649932, 1.3777523050714795, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.9140417903215567, 2.6768885059192815, 1.8812120665384695, 1.377671395628678, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4713 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.915393797551127, 2.6776483112614, 1.8803037731162087, 1.3768698596381272, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4714 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.916760781066157, 2.6784807745440347, 1.8795822263796378, 1.376127554109392, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.916760781066157, 2.6784607792343045, 1.8792491316938194, 1.3760931500245435, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4715 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.918143155302383, 2.6793289382530325, 1.8780361180607863, 1.375355322549277, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4716 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.9195411740773283, 2.6802581043644587, 1.876793480235831, 1.3746741785301013, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.9195411740773283, 2.6802580616439378, 1.876652441837752, 1.3746611071624861, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4717 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.920961945006361, 2.681251571381782, 1.8750857326774746, 1.3740023974147593, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4718 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.9223982483771884, 2.682319467704047, 1.8733619700225497, 1.373394134399731, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.9223982483771884, 2.682319467704047, 1.8733237750666596, 1.3733881901691316, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4719 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.923853632867062, 2.6834673938450395, 1.871354857667277, 1.3728396563565783, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.472 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.9253221788706707, 2.6847009491432736, 1.869180583932481, 1.372334469358952, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.9253221788706707, 2.6847009491432736, 1.8691764670368938, 1.372334469358952, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4721 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.9268005384107463, 2.686023875984068, 1.8667711773085407, 1.371901905585584, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4722 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.9282860316175277, 2.6874450706064477, 1.8641404377256463, 1.3715463861969557, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.9282849043537293, 2.687443614499535, 1.8641309032766367, 1.3715463861969557, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4723 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.92977215749938, 2.688962014217077, 1.861249750650893, 1.3712495677658243, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4724 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.931257926858092, 2.6905852366207004, 1.8581471007262116, 1.371045350214218, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.931257926858092, 2.6905823463650207, 1.858124600092816, 1.3710422431936387, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4725 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.9327368287340927, 2.692308566585296, 1.8547557362037408, 1.3709205745222457, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4726 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.9342004297080084, 2.6941394979535507, 1.8511664409906359, 1.3708698786610887, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.9342004297080084, 2.6941394979535507, 1.8511475056668474, 1.3708698786610887, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4727 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.935644307848706, 2.6960719216670275, 1.8473089820410744, 1.3709115382608157, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4728 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.937053310981487, 2.698091813915199, 1.8432745492517508, 1.3710343046364866, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.937053310981487, 2.698091813915199, 1.8432592243235197, 1.3710343046364866, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4729 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.9384188525898844, 2.7001873053152132, 1.8390259499018577, 1.3712232593108131, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.473 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.939732493241518, 2.702346178780678, 1.8346251339214672, 1.3714937274531274, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.9397311109701123, 2.7023413958218296, 1.8346246621213795, 1.3714915409517707, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4731 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.940985504198374, 2.704549231875823, 1.830084159372427, 1.3718209551507712, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4732 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.942180718679616, 2.706795429159356, 1.8254465076888668, 1.3721905971604975, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.942177825173862, 2.706795429159356, 1.8254465076888668, 1.3721905971604975, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4733 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.943306685914158, 2.709063885833727, 1.8207549699677836, 1.3726098553317814, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4734 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.9443713018943063, 2.7113467018063195, 1.8160341653965473, 1.373069126528437, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.9443713018943063, 2.7113167780101817, 1.8160341653965473, 1.373069023026995, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4735 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.945372097510821, 2.7135347769533213, 1.81129805685389, 1.3735419359745273, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4736 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.9463093271187293, 2.71587142986791, 1.8065486666649082, 1.3740258045040794, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.9463093271187293, 2.7156920773838538, 1.8065486666649082, 1.3740258045040794, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4737 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.9471771247703047, 2.717763321028392, 1.8017773326890232, 1.3745186228454, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4738 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.9479743047389286, 2.7202683037713706, 1.7969601493459997, 1.3750141916251888, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.9479743047389286, 2.7197338816272882, 1.7969601493459997, 1.3750141916251888, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4739 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.948695009228195, 2.7215658559223708, 1.792061353515322, 1.3754926231372, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.474 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.9493295115248603, 2.724430140840769, 1.7870431950701242, 1.3759418555729348, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.9493295115248603, 2.7232370686154757, 1.7870431950701242, 1.3759418555729348, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4741 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.9498636011653803, 2.724729164417531, 1.7818284595829545, 1.3763471919209285, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4742 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.9502782676611172, 2.728113224942808, 1.7763504035211704, 1.376691294965704, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.9502782676611172, 2.726028840916709, 1.7763504035211704, 1.376691294965704, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4743 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.950549740337876, 2.7271290124151464, 1.770541423193345, 1.3769549102682177, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4744 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.950649965395761, 2.7310084382017963, 1.7643444976831815, 1.3771185801168688, 0, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.950649965395761, 2.7280298264404124, 1.7643444976831815, 1.3771185801168688, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4745 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.9505476260622494, 2.7287394521966286, 1.7738045352491871, 1.7577201419064787, 1.3771655502407159, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4746 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.950209811771545, 2.732782411705917, 1.7726586823540857, 1.7506128685422713, 1.377085881511571, 0, 0, 0, 0, 0, 0]
+        Result max thetas [2.950209811771545, 2.729274564000009, 1.7726586823540857, 1.7506128685422713, 1.377085881511571, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4747 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.949604395122076, 2.729660453546519, 1.7722952190240486, 1.7430055712639365, 1.376881418561237, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4748 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.9487030769603053, 2.7466151573673763, 2.7332665061493513, 1.7726836448031127, 1.7349224465812223, 1.376577240459318, 0, 0, 0, 0, 0]
+        Result max thetas [2.9487030769603053, 2.7466151573673763, 2.7299307228913867, 1.7726836448031127, 1.7349224465812223, 1.376577240459318, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4749 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.9474849377259154, 2.7506183386340073, 2.73012653467404, 1.7737095068004778, 1.726397002986658, 1.3762296228316604, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.475 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.9600430624881415, 2.9459402456671384, 2.754943565645731, 2.7327159587248695, 1.7751677517610347, 1.7174760763419157, 1.3758818924046154, 0, 0, 0, 0]
+        Result max thetas [2.9600430624881415, 2.9459402456671384, 2.754943565645731, 2.730295425927951, 1.7751677517610347, 1.7174760763419157, 1.3758818924046154, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4751 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.9615503114081, 2.944082592035629, 2.7594913555043328, 2.730489724406231, 1.7767723853778743, 1.708267358910931, 1.3875555647742788, 1.3756547466749334, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4752 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.96302029991934, 2.9419357792461676, 2.7641567223550156, 2.73193604569712, 1.7781847975062626, 1.6988868554692356, 1.389492560136402, 1.3756146115244365, 0, 0, 0]
+        Result max thetas [2.96302029991934, 2.9419357792461676, 2.7641567223550156, 2.7307646386840516, 1.7781847975062626, 1.6988868554692356, 1.389492560136402, 1.3756146115244365, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4753 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.964404155093918, 2.939540195112854, 2.768795608888541, 2.731177260308075, 1.7790589989737602, 1.6894591337254408, 1.3914367082255663, 1.375825039285101, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4754 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.9656624474302657, 2.9369685529918157, 2.7732523796385475, 2.7320311917365014, 1.7790983239404852, 1.6801839158793939, 1.3932986963608098, 1.3764117619723468, 0, 0, 0]
+        Result max thetas [2.9656624474302657, 2.9369685529918157, 2.7732523796385475, 2.7317841118673565, 1.7790983239404852, 1.6801839158793939, 1.3932986963608098, 1.3764117619723468, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4755 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.9667677716294345, 2.9343244283943966, 2.7774222896093224, 2.7326344178436566, 1.778115630472457, 1.6712447366316887, 1.3950233880261704, 1.3773995302365898, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4756 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.967708130888454, 2.931760013847751, 2.7812121507082743, 2.7337671776782475, 1.7760869048392782, 1.6628733404002092, 1.3965366999847495, 1.3786720411134912, 0, 0, 0]
+        Result max thetas [2.9677034167622054, 2.931760013847751, 2.7812108289056505, 2.7337671776782475, 1.7760869048392782, 1.6628733404002092, 1.3965366326320108, 1.3786720411134912, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4757 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.9684900016136346, 2.929429105380977, 2.7845828173198615, 2.7352251013487536, 1.7731654762263427, 1.6553537360475299, 1.3978242255200433, 1.3801071525477862, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4758 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.969168045336317, 2.9273113161247366, 2.7876873573558103, 2.7368950221109514, 1.7697746437863315, 1.6485327514084802, 1.3989535141596856, 1.3814872627438939, 0, 0, 0]
+        Result max thetas [2.9691013545080294, 2.9273113161247366, 2.7874721905351465, 2.7368950221109514, 1.7693833599507025, 1.6485327514084802, 1.3988328425025802, 1.3814872627438939, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4759 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.969499717511494, 2.9251701471837195, 2.7897232038224296, 2.738570964828658, 1.7646920024462516, 1.6418815873720083, 1.3994770587976557, 1.3825399066982111, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.476 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.970509972945676, 2.922645542581082, 2.793970936811882, 2.740054437413577, 1.7634095244109658, 1.634720092919511, 1.4012697996283487, 1.3829904858841269, 0, 0, 0]
+        Result max thetas [2.9696427666243914, 2.922645542581082, 2.7911779961248144, 2.740054437413577, 1.759083126684085, 1.634720092919511, 1.3996694794682394, 1.3829904858841269, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4761 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.9694847892904743, 2.9194322182758596, 2.7916954497000956, 2.7412460631327265, 1.7525402500526446, 1.6406840569849355, 1.6265097014806487, 1.3993300869547536, 1.3826598353125215, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4762 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.9722315324685735, 2.9292675460479543, 2.91560953741868, 2.801683814709882, 2.742255802905118, 1.7593709078672357, 1.6425090722581213, 1.6175105890083008, 1.4044239184661393, 1.3929109139663505, 1.3815459789831885]
+        Result max thetas [2.9689786428660856, 2.9292675460479543, 2.91560953741868, 2.801683814709882, 2.7911644506986835, 2.742255802905118, 1.7593709078672357, 1.7450796975202565, 1.6425090722581213, 1.6175105890083008, 1.3929109139663505, 1.3815459789831885, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4763 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.9680783433439815, 2.9328033674174403, 2.9121147573120063, 2.805362478822469, 2.789527727214775, 2.743497903367778, 1.7570306326350469, 1.7367448412225426, 1.6469699126892612, 1.6094008488546478, 1.3968515739259906, 1.379972339002708, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4764 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.9732474411423913, 2.9375852284342265, 2.911142318023716, 2.807180395685631, 2.745712393619761, 1.7523606450295675, 1.654014272124394, 1.6056670885773763, 1.3986243076318252, 1.378533762428227, 0]
+        Result max thetas [2.9667501215292877, 2.9375852284342265, 2.911142318023716, 2.807180395685631, 2.786805460850357, 2.7558700474910736, 2.745712393619761, 1.7523606450295675, 1.7276260303440394, 1.654014272124394, 1.6056670885773763, 1.3947364675825917, 1.378533762428227, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4765 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.9649569940483658, 2.9433281104704, 2.916038230807178, 2.8048173560253207, 2.7831304453015457, 2.760201127804019, 2.749864178101886, 1.743056646909703, 1.7177694482960306, 1.6633597635659283, 1.611779269614535, 1.40426948701768, 1.3921339043548118, 1.3780872872011318, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4766 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.9691144930145037, 2.949652380787201, 2.92973973708165, 2.7957353812103016, 2.7568088612819075, 1.727041944904698, 1.6745110817245514, 1.6338598866026468, 1.3984627007296835, 1.379418741052565, 0]
+        Result max thetas [2.9626721798449895, 2.949652380787201, 2.92973973708165, 2.7957353812103016, 2.778718865947156, 2.7568088612819075, 1.727041944904698, 1.7072808613923498, 1.6745110817245514, 1.6338598866026468, 1.379418741052565, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4767 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.950333553864014, 2.7669402890974735, 1.6866663247341935, 1.673181661586736, 1.3798128412968653, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4768 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.9621668901867766, 2.9514924658868593, 2.7798523323491717, 2.7615036782979296, 1.7169086259304482, 1.6989367716691208, 1.6729261216444506, 1.380423345026315, 0, 0, 0]
+        Result max thetas [2.9514924658868593, 2.7615036782979296, 1.7169086259304482, 1.6989367716691208, 1.6848275624004216, 1.6729261216444506, 1.380423345026315, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4769 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.9675310737666143, 2.9528404168326428, 2.9361723353689455, 2.7943503972563235, 2.77968807406166, 2.764520503237555, 2.7521918050672247, 1.7397510027197265, 1.7102745937497579, 1.673098027292637, 1.638817300362819, 1.4128415686172282, 1.3958452588856811, 1.380111312154682, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.477 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.971954390665269, 2.9183956842762417, 2.8087778890318003, 2.7581739248000736, 1.7197264733590025, 1.6051737666545027, 1.4032892697040533, 1.392698746665364, 0, 0, 0]
+        Result max thetas [2.971954390665269, 2.948637371215355, 2.9183956842762417, 2.8087778890318003, 2.7848798280262312, 2.7581739248000736, 1.7197264733590025, 1.6611510707635762, 1.6051737666545027, 1.4032892697040533, 1.392698746665364, 1.379700957190323, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4771 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.9753166490731187, 2.9599739187631013, 2.9440286981453667, 2.901155858961934, 2.8214887299556146, 2.7901277280024486, 2.7757467847753796, 2.758245846921735, 1.7264383093754339, 1.683776590962982, 1.6491434156291889, 1.5759900623618381, 1.4099540580718275, 1.3792315700734277, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4772 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.977582145516682, 2.9393263617055925, 2.8875717207891856, 2.8311504013826014, 2.795188140220092, 1.7297746426688039, 1.6375781464754413, 1.5543064757513667, 1.4367445471856235, 1.4149297129344078, 1.3799162970890209]
+        Result max thetas [2.977582145516682, 2.939095645460491, 2.8875717207891856, 2.8311504013826014, 2.795188140220092, 2.757082883566838, 1.7297746426688039, 1.6371320141641093, 1.5543064757513667, 1.4367445471856235, 1.4149297129344078, 1.3799162970890209, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4773 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.9787420929274866, 2.933871185678355, 2.9236399644639235, 2.8800475686490237, 2.8367933654981785, 2.8005809313994416, 2.757467174400768, 1.7293706736953824, 1.625261039416734, 1.6076042095418088, 1.5420379418793282, 1.4506892282396107, 1.4175751776312937, 1.382016980541363, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4774 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.9787554884535945, 2.9229555665032887, 2.8800478749451455, 2.837782527937935, 2.809611440957388, 1.7251249103666992, 1.6043624985404101, 1.5403207666367564, 1.4511424663376964, 1.417469207789328, 1.3896763316217238]
+        Result max thetas [2.9787554884535945, 2.9229555665032887, 2.8800478749451455, 2.837782527937935, 2.8057230014031287, 2.759442815822122, 1.7251249103666992, 1.6043624985404101, 1.5403207666367564, 1.4511424663376964, 1.417469207789328, 1.3853901584047659, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4775 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.9775329446796843, 2.9389308373276988, 2.9229009062156135, 2.88812868764892, 2.8338227873473447, 2.8107634900950416, 2.7991527800149596, 2.7629587934843425, 1.7171767956916604, 1.6297928329254876, 1.6021906879225454, 1.5497984764171273, 1.437086505190864, 1.4144533978890945, 1.3806725459058309, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4776 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.9749536868770416, 2.9625008389515477, 2.9035761899581587, 2.8251267572320367, 2.7807136318088506, 1.705897313351112, 1.6747388957289033, 1.5702141594296397, 1.4087360301371152, 1.3894341732862605, 0]
+        Result max thetas [2.9749536868770416, 2.9625008389515477, 2.9172952923510076, 2.9035761899581587, 2.8156911626422327, 2.7807136318088506, 2.7678509188083056, 1.705897313351112, 1.6747388957289033, 1.5911377662910204, 1.5702141594296397, 1.4087360301371152, 1.3894341732862605, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4777 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.9709043637039305, 2.923825003684005, 2.911697226360425, 2.812763147441075, 2.7654447789508403, 1.7123639234249548, 1.6917631396892416, 1.5995734194232547, 1.5805171324136882, 1.4164469173345982, 1.4010873174217668, 1.38984727812686, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4778 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.9778662808480445, 2.9653525846407165, 2.9448202733745106, 2.7986380189942563, 2.768074368758805, 1.7068610007682452, 1.675390001857027, 1.6335848479116617, 1.4148648864406026, 1.3928524432433211, 1.3805686921984117]
+        Result max thetas [2.9778662808480445, 2.9653525846407165, 2.9448202733745106, 2.90618074659667, 2.825071575440978, 2.7986380189942563, 2.780931056400602, 2.768074368758805, 1.7068610007682452, 1.675390001857027, 1.6335848479116617, 1.5703284733384941, 1.4101509019871517, 1.3928524432433211, 1.3805686921984117, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4779 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.9531299648283356, 2.900804170795984, 2.8295030704371915, 2.7852383865952715, 1.6573869094991331, 1.6469432826264236, 1.5606545586861036, 1.4182586050221153, 1.382600025104118, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.478 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.974557235326281, 2.9499611225318243, 2.9058700480799122, 2.8278021152306345, 2.7750438901869297, 1.6912317253862357, 1.6383841814782811, 1.566172532035165, 1.4076342239022406, 1.3816096923837697, 0]
+        Result max thetas [2.974557235326281, 2.9499611225318243, 2.9058700480799122, 2.895612619773628, 2.8278021152306345, 2.7967568908096214, 2.7750438901869297, 1.6912317253862357, 1.6383841814782811, 1.566172532035165, 1.5514757386403668, 1.4267201984451958, 1.4076342239022406, 1.3816096923837697, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4781 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.9807607433434407, 2.9405043485811, 2.890668889420292, 2.8665397995612643, 2.852781081145517, 2.837772475384424, 2.805116940390167, 2.7698849398861918, 1.7041756230424145, 1.6189793631974243, 1.54285295591372, 1.5107966736606218, 1.4807285349268418, 1.4353356642823656, 1.421461295097722, 1.381638755675571]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4782 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.9816367750779667, 2.9302546253893924, 2.8575323051345083, 2.770541378039572, 1.7030437066657436, 1.599676200432204, 1.494269762819136, 1.4235595596199797, 1.3864450091511373, 0, 0]
+        Result max thetas [2.9816367750779667, 2.9302546253893924, 2.885984180960361, 2.8575323051345083, 2.841603718137668, 2.813484082047221, 2.770541378039572, 1.7030437066657436, 1.599676200432204, 1.5347574888878885, 1.494269762819136, 1.4439222970983352, 1.4235595596199797, 1.3864450091511373, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4783 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.9773192998209153, 2.9195551508358117, 2.8816138243007634, 2.840840433948129, 2.8217039570863607, 2.7767592820851412, 1.688472586345229, 1.5809038819974661, 1.5380861425519685, 1.5272197846158422, 1.4523190332166644, 1.4378476902853783, 1.4131170596039997, 1.3958039109824618, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4784 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.967447915198809, 2.938039278050708, 2.908749733779671, 2.8106920712176144, 2.78749503816498, 1.6630241079057158, 1.6082801765830392, 1.5630058410363994, 1.4089452616735718, 1.3957029366433438, 1.3830323121904307]
+        Result max thetas [2.967447915198809, 2.938039278050708, 2.908749733779671, 2.877563861022533, 2.8486192871078035, 2.8296541769915056, 2.8106920712176144, 2.78749503816498, 1.6630241079057158, 1.6082801765830392, 1.5630058410363994, 1.5202202505015379, 1.4603884056192151, 1.4089452616735718, 1.3957029366433438, 1.3830323121904307]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4785 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.9734426679195813, 2.9519759134141585, 2.898154566108268, 2.8738433790136333, 2.8518178061433574, 2.837210236719684, 2.801350260472344, 2.783684615463519, 1.673300216824996, 1.6302548853015881, 1.5462368169663216, 1.5137498630912791, 1.4680395489626827, 1.4247442829619146, 1.405219284501845, 1.3829751166396231]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4786 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.982647744354272, 2.9317530036348196, 2.8880528149140483, 2.8168776580642074, 2.776028132917172, 1.6921039920662146, 1.593895908727254, 1.5307691332008766, 1.4420266762006053, 1.4255815816356356, 1.3865985893725017]
+        Result max thetas [2.982647744354272, 2.9317530036348196, 2.8880528149140483, 2.8704794336682036, 2.854799591023856, 2.8443249067739296, 2.8168776580642074, 2.776028132917172, 1.6921039920662146, 1.593895908727254, 1.5307691332008766, 1.5078149825783922, 1.4751789802096091, 1.4420266762006053, 1.4255815816356356, 1.3865985893725017]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4787 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.9665525027547983, 2.9085921610374936, 2.8786445022482203, 2.850927350276289, 2.832828562064498, 2.792309028752772, 1.65316736909023, 1.5573107177830965, 1.5167024867871817, 1.502374726022464, 1.4817451702904076, 1.4597097240492694, 1.4102847989054998, 1.39458524957575, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4788 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.922655187256013, 2.8847631630174804, 2.8700775250913244, 2.848263220356442, 2.8249881365183733, 1.5759640262845682, 1.5230648412200742, 1.5040942918810236, 1.476947602177659, 1.4487840651237922, 1.3943704539544137]
+        Result max thetas [2.922655187256013, 2.8847631630174804, 2.848263220356442, 2.8249881365183733, 1.5759640262845682, 1.5230648412200742, 1.4876946887352545, 1.476947602177659, 1.4487840651237922, 1.3943704539544137, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4789 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.8621504188670186, 1.4925468280075511, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.479 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.8969862441381826, 2.8753697132298295, 2.855820281487337, 2.8429338173092633, 2.8108185125741683, 1.610482766568852, 1.535968795992645, 1.507640382424069, 1.4831391366026765, 1.467406851529033, 1.42867128370138]
+        Result max thetas [2.8969862441381826, 2.855820281487337, 2.8429338173092633, 2.8108185125741683, 1.610482766568852, 1.535968795992645, 1.4831391366026765, 1.467406851529033, 1.42867128370138, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4791 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.924127780737883, 2.8865196898520655, 2.850171816777555, 2.8272025699707597, 2.7859692116885935, 1.6708723505505108, 1.572463588081789, 1.5204060004195759, 1.5016437145892756, 1.4853272878402213, 1.4746877295137493, 1.4469415518668434, 1.3939433199863631, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4792 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.943846074728846, 2.896010905507798, 2.845507803952382, 2.815311092726016, 2.786402400866681, 1.6706285823917388, 1.6009354867802479, 1.53126071793464, 1.4674923688699286, 1.4310848901315396, 1.3834229122167665]
+        Result max thetas [2.943846074728846, 2.896010905507798, 2.86845490715498, 2.857524631789379, 2.845507803952382, 2.815311092726016, 2.786402400866681, 1.6706285823917388, 1.6009354867802479, 1.53126071793464, 1.5049839197204067, 1.4821512388031062, 1.4674923688699286, 1.4310848901315396, 1.3834229122167665, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4793 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.9573691426899553, 2.903894558299288, 2.870067042800295, 2.8565085869351474, 2.8417689823787002, 2.8009991300054353, 1.6362273224081672, 1.6214844905673635, 1.5401699742817931, 1.5076727688674536, 1.4793631644529603, 1.4614465443363396, 1.4192284442601426, 1.3865408125259802, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4794 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.9662992637556767, 2.9102724363008954, 2.8388992491939673, 2.8193448087551234, 2.801440684914664, 1.6351969738262626, 1.5933107147106167, 1.5471868742324297, 1.456487655259727, 1.410654275993988, 1.394486263710306]
+        Result max thetas [2.9662992637556767, 2.9102724363008954, 2.882057312315498, 2.8715033386906255, 2.855790487721184, 2.8388992491939673, 2.8193448087551234, 2.801440684914664, 1.6351969738262626, 1.5933107147106167, 1.5471868742324297, 1.50972663645444, 1.4769446892040043, 1.456487655259727, 1.410654275993988, 1.394486263710306]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4795 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.971984876749711, 2.915294116335085, 2.884440910710024, 2.8727732309688645, 2.8553594985589883, 2.8355765833663416, 2.798247567742756, 1.6434592771282335, 1.552380945194768, 1.5111642809984618, 1.4748797708088213, 1.4525121994632115, 1.4023986205776326, 0, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4796 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.9754764146088655, 2.91905280592599, 2.847687465344506, 2.835556974465501, 2.796744580920038, 1.6476929924199044, 1.5558640162455921, 1.5294746636739145, 1.4494423221741495, 1.400705361736481, 0]
+        Result max thetas [2.9754764146088655, 2.91905280592599, 2.886363619568832, 2.87388240407804, 2.847687465344506, 2.835556974465501, 2.796744580920038, 1.6476929924199044, 1.5558640162455921, 1.5294746636739145, 1.5120058191817731, 1.4731534042913181, 1.4494423221741495, 1.400705361736481, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4797 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.977458523449635, 2.9216546711049, 2.8878442020298682, 2.874830728425751, 2.8553163556388177, 2.8349748843478837, 2.7964395355929637, 1.6490235131890751, 1.5577435618668034, 1.512271943345578, 1.4717549701520676, 1.4472350467257997, 1.4122261655765909, 1.3982756865545083, 0, 0]
 Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4798 N     Total steps = 29999      dt = 0.01
-        Result max thetas [2.978388832733069, 2.923188821447979, 2.86009494645051, 2.8350512251189004, 2.7969860344716073, 1.6482865890816445, 1.558105442885749, 1.5035158156957429, 1.4458160775561752, 1.4140688258506149, 1.3970654586949713]
-Press any key to continue . . .
+        Result max thetas [2.978388832733069, 2.923188821447979, 2.888891567154141, 2.875623108104711, 2.855684017495563, 2.8350512251189004, 2.7969860344716073, 1.6482865890816445, 1.558105442885749, 1.5035158156957429, 1.4706738636677454, 1.4458160775561752, 1.4140688258506149, 1.3970654586949713, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4799 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.9785136662294853, 2.9237205197820404, 2.8895215038963835, 2.8762641716116755, 2.8562986989838266, 2.8357487129183436, 2.7981773064780686, 1.6459796990322344, 1.5570340101411815, 1.5111604043441706, 1.5008347060757357, 1.4698911247071431, 1.4451420597393223, 1.4142497808953065, 1.3968757102238882, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.48 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.9778982331906083, 2.923280406607231, 2.8897481686307036, 2.8767582827662213, 2.857151898941926, 2.837041171046376, 2.7999414486852587, 1.642283654396687, 1.554601262457868, 1.503901890537806, 1.4693964178433014, 1.4451807748603793, 1.4129015091922608, 1.397622397874233, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4801 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.9764405676194596, 2.921896879707536, 2.889584256309687, 2.8771095637973967, 2.8562922066672902, 2.8389154628866016, 2.802341712126717, 1.6370873584286656, 1.550870805846856, 1.5079899302481534, 1.4691804883655544, 1.445908862729463, 1.4099608207708474, 1.399350680804112, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4802 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.9738750911620855, 2.919571541129781, 2.889041290124444, 2.877321929727255, 2.8595433143924245, 2.8413514068376706, 2.8055225976060094, 1.6300053065640334, 1.5458725628610752, 1.5295481039405827, 1.5056802402456322, 1.4692350668983043, 1.4473107530579363, 1.402176998081535, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4803 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.9697831799339522, 2.9162918149101835, 2.8881300189151173, 2.8773991332994346, 2.861071605646615, 2.8384610058149367, 2.809725770290343, 1.6204570167590662, 1.553784080504947, 1.5396362893789293, 1.5029121373136982, 1.4695527469383483, 1.4493772425665425, 1.3991410235602662, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4804 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.9635894146681707, 2.9120398477484186, 2.877344819805468, 2.8628196327213407, 2.8478799014309613, 2.8254608079399928, 2.8152686492231225, 1.6077824139128976, 1.5843168084198505, 1.5322153249245687, 1.499718987731194, 1.4701268370331004, 1.4521183332145309, 1.412040714252988, 1.392219311179568, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4805 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.954576995284177, 2.9068306630709886, 2.877162591208858, 2.8647744268520183, 2.851984929165723, 2.812681987797161, 1.6149498518564072, 1.5912426091278014, 1.5236357298722558, 1.4961126217833434, 1.470951188874494, 1.4555292134116917, 1.4196478127118386, 1.3867899966785528, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4806 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.941997299251245, 2.90064126873115, 2.8669304217534646, 2.856645672652884, 2.8316510878952075, 2.8051554034884787, 1.6333673680313143, 1.570308339620978, 1.5139630162450055, 1.4921074235067948, 1.4720200022804526, 1.45960078917922, 1.4294341022949095, 1.386915647265898, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4807 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.925244609741732, 2.8935245526851823, 2.8618443804575966, 2.842982418696888, 2.809393592543564, 1.6235721705980923, 1.5448215247236416, 1.5032645105999882, 1.4877244840442256, 1.4643449287774988, 1.4416319098799801, 1.39798588560026, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4808 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.904242943275687, 2.86760407066291, 2.8565049412554284, 2.8303325133209682, 1.5744641291876513, 1.515287197149253, 1.4697569746359396, 1.4563743746154536, 1.4246602600626375, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4809 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.8670605468782644, 1.4932978289654109, 1.467558516947055, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.481 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.911004478324558, 2.867521583799596, 2.8544904173283063, 1.5206975273843273, 1.4928381197598026, 1.4665719417894498, 1.4508874772132316, 1.4156837494780594, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4811 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.9496704858687965, 2.9067906982405205, 2.8692533355085144, 2.857982705026543, 2.8320849181978383, 1.5720252720385686, 1.513602959642626, 1.4808710837663634, 1.4671232302668442, 1.4535493282264091, 1.4220569213159728, 1.386901521095772, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4812 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.9735730432475678, 2.9243604368463028, 2.895341245378066, 2.883829379659763, 2.8657569794809152, 2.848554108623276, 2.8175193883471894, 1.6069636292011444, 1.5348835080978818, 1.497512067049639, 1.4832901106264411, 1.4613585854810884, 1.4406693864491205, 1.4004569391155548, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4813 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.979169767539682, 2.9407245795863095, 2.9031597417682975, 2.8872475609393193, 2.862114031363216, 2.839712722278969, 2.8148358548068417, 1.6140658121352323, 1.555457780327474, 1.5057013298735678, 1.4859032468946634, 1.4554553162523904, 1.4283489628887482, 1.4145617616967703, 1.3890284902110819, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4814 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.9661222898296695, 2.9548787276868955, 2.911135806476282, 2.8908160411459742, 2.870460461097652, 2.858397458866296, 2.824918601474496, 1.59088654142928, 1.5739001962188013, 1.514221453156939, 1.488703212895863, 1.4494393056367412, 1.4170061589054153, 1.3882453738898999, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4815 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.9660270185762143, 2.9376684113826688, 2.919174698303081, 2.894509811666065, 2.869257448531693, 2.854653562734216, 2.8439047641721418, 2.8259082473573067, 1.588705829919699, 1.5476257019125776, 1.5229140227257965, 1.4916837333365385, 1.4433879863323718, 1.407128584484316, 1.3909695544034215, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4816 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.9735850764094245, 2.927116895010028, 2.8983181642751417, 2.8638911372918163, 2.8509448215677233, 2.8220358868027295, 1.59845985973841, 1.531637617586865, 1.494815129622981, 1.4373612257224455, 1.4254365327648029, 1.399095613755032, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4817 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.977194267426261, 2.934814594423361, 2.9022407810840023, 2.887004376620221, 2.866665511349188, 2.8473588372634113, 2.8207600805730295, 1.6021200757079694, 1.5401908788755176, 1.4980776172842665, 1.4793165731803706, 1.457703770167437, 1.4314174343271069, 1.4106015285864837, 1.393227641979367, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4818 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.976642779036641, 2.9421517757114035, 2.9062347992188893, 2.8898152313611525, 2.875515950170192, 2.8652980723366395, 2.8439814588747176, 2.822287979012993, 1.5991167253556509, 1.5483911328270346, 1.501448563034286, 1.4811785355190523, 1.4529978369809318, 1.4256491802294444, 1.4095889986918493, 1.3896925425573206]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4819 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.9719166594485236, 2.9489496196809037, 2.910281579083851, 2.862740855468759, 2.8408848424009094, 2.826554670761857, 1.5896705481442759, 1.555994527371232, 1.5049126355633824, 1.4166032065871526, 1.402294266703038, 1.388456558183641, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.482 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.955091814818533, 2.944331212817453, 2.9143787665534737, 2.8624826018766742, 2.833180016403634, 1.5747802248199463, 1.5628173390392472, 1.5477913281110809, 1.5084413307025428, 1.4149085933873158, 1.389241286511181, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4821 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.9517964904378977, 2.9184740705315093, 2.8610629782081083, 2.8314017344486917, 1.5794184053006144, 1.5686135659529026, 1.556305814053189, 1.511992510872939, 1.410079185971015, 1.3888650942426097, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4822 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.9750390520854464, 2.9649144056776664, 2.9387241134092212, 2.922544571368231, 2.8503566977955415, 2.8277526476542745, 1.5883598294976184, 1.5731864951037393, 1.5366630967371944, 1.515531502307217, 1.4057024305195258, 1.392246010930708, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4823 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.9679544896760057, 2.9261015503162686, 2.8582936683301297, 2.833047605756232, 1.5757141258893395, 1.5184201983908328, 1.397700577507479, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4824 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.9708504586938953, 2.9539610320354455, 2.9305261520806143, 2.915907789971567, 2.85697345322428, 2.8430076544784915, 2.832577191782839, 1.5780475244314356, 1.5538232646184666, 1.5224373026315543, 1.5038117355201548, 1.414387111603142, 1.3896493557611609, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4825 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.9722372719944823, 2.934355217757872, 2.9096216582915657, 2.870668474045983, 2.851268194152717, 2.832786818830793, 1.578132723344239, 1.525725932309739, 1.4943622422620577, 1.4234040052319872, 1.391519979541847, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4826 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.9725434287317345, 2.9375808759569995, 2.9079798712383695, 2.8726621720475762, 2.854546068813741, 2.833679055926007, 1.576618410959836, 1.5282243865009968, 1.490722141522224, 1.4262106935935754, 1.3936946547395919, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4827 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.971798367360341, 2.9415771381046882, 2.910917410077848, 2.871909753234976, 2.8530252167560177, 2.835227162569522, 1.5735823598078182, 1.5317405260020938, 1.492742555333461, 1.4223106198863307, 1.4023066444598926, 1.3918206204650545, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4828 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.9700718917281184, 2.9448870377204663, 2.9177269343175523, 2.868859275622402, 2.8476357548311473, 2.8373783363988707, 1.5691540809153013, 1.545400835343508, 1.5343819337640359, 1.4995640393199372, 1.4135193343914256, 1.3902427271368978, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4829 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.9641715182622135, 2.9479759632761766, 2.9270960624531823, 2.86429557542619, 2.84005613387013, 1.5588482707549722, 1.536725157078385, 1.5096723461768788, 1.3906297387306457, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.483 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.964191230858976, 2.9508088782339508, 2.9374183879452063, 2.8396822778491027, 1.5570138578198842, 1.5387395852542747, 1.5211772387869862, 1.3905521842720667, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4831 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.947131571360396, 2.8425173016025456, 1.532127104695687, 1.3908059918193503, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4832 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.95509241724021, 2.8494578470645515, 1.5409324277341845, 1.3912015487646696, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4833 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.945251618525868, 2.8483271354715365, 1.526189181910146, 1.3911098535965756, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4834 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.959151253643329, 2.948303827209235, 2.9359043724164837, 2.847339352073752, 1.5428392746089317, 1.5284586387601964, 1.5125054083330975, 1.3916497107138384, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4835 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.960436645727134, 2.9448603612007567, 2.931228680886318, 2.8475092324060363, 1.542776562434702, 1.5222578797675537, 1.5049456089199384, 1.3927928039747284, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4836 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.961390552693002, 2.942031206824904, 2.930590775596229, 2.862502307809173, 2.8484898053284993, 1.5422675146517921, 1.5169337876916569, 1.5025028311301603, 1.3939133697045176, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4837 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.96201912236475, 2.9322304361888585, 2.86476329046311, 2.8499220500231965, 1.5413214361398964, 1.5029017822815869, 1.3943638142961388, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4838 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.9623341523730478, 2.9345398649694783, 2.866564933068661, 2.8515239349876005, 1.539956493511572, 1.5041381237107552, 1.3946555500945927, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4839 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.9623531173705486, 2.9365921292312436, 2.8679176037380394, 2.8531103017601844, 1.538200570912163, 1.505055382443898, 1.3947882291408735, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.484 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.9620990203876567, 2.938106168114505, 2.8688631844347006, 2.854604856733931, 1.5360982693195275, 1.505291549783293, 1.394778806027398, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4841 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.9614355981044898, 2.9388108618689732, 2.8692405585572516, 2.855929930116947, 1.5334740311431114, 1.5045038607726864, 1.3945842724061412, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4842 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.9607992135614256, 2.939934258346233, 2.869702611774371, 2.8573730105171777, 1.5308884259533577, 1.5042484432699859, 1.3944326131962925, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4843 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.960001986657942, 2.9411758171401474, 2.869997983133837, 2.8588697448144162, 1.528101102916092, 1.5041445659083297, 1.394261885908453, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4844 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.958978362853861, 2.94248724353426, 2.8604223511352105, 1.5250410266105487, 1.5041198549850663, 1.3940689141754534, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4845 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.9578588934985603, 2.944030574029787, 2.8620899699598534, 1.5218739374947294, 1.5043837023630373, 1.3939213310119496, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4846 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.9566911407927874, 2.9456467683908616, 2.863854941930567, 1.5186695007088915, 1.5047384187958426, 1.393865220819373, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4847 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.9470686459688937, 2.8656513471938307, 1.5154074285757593, 1.504854788769175, 1.393887214920004, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4848 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.948071101440386, 2.867361535380932, 1.5044369941823086, 1.3939974171113612, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4849 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.948813785873648, 2.8690435180528104, 1.5036954312507909, 1.3942124352111842, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.485 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.949297667793207, 2.870684081272906, 1.5026330873450584, 1.3944831216007543, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4851 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.9495414165160243, 2.872273930063471, 1.5012740137444887, 1.3948133275795906, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4852 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.9495742418740973, 2.8738109088512678, 1.4996554421225459, 1.3951867871095887, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4853 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.949430448752219, 2.875298833215037, 1.4978208059936646, 1.3955776739484917, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4854 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.94888010892489, 2.8765693057895483, 1.4954885146973194, 1.3959064361322828, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4855 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.948289144567401, 2.8778371399225438, 1.493111284078165, 1.3962420798802049, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4856 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.94776532008518, 2.8791560379086194, 1.4908345953118323, 1.3966156774867375, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4857 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.947287877276821, 2.880512244390223, 1.488617874890017, 1.3970331284003135, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4858 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.9468332960531516, 2.8818951733418072, 1.4864307098223513, 1.397481231893261, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4859 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.946376842819494, 2.883297568865197, 1.4842425388716904, 1.3979572873837942, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.486 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.945897688704858, 2.8847156733219896, 1.4820233816398067, 1.3984597075268244, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4861 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.9453703149881676, 2.8861494109802712, 1.479750265183963, 1.3989888646417754, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4862 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.944755964564538, 2.8875963399862115, 1.4773834338500451, 1.399553186987955, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4863 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.9440939985515264, 2.889091840026281, 1.4749566219096375, 1.4001713894614223, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4864 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.9433304031800587, 2.890620950539136, 1.4724130710272125, 1.400832994752634, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4865 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.9424675198745462, 2.8921905542418287, 1.469742669064751, 1.4015461399807627, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4866 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.9415129028054046, 2.8938078428051592, 1.466972731586326, 1.4023202558711019, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4867 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.940475628929462, 2.895483222862736, 1.4641055478835248, 1.403178669854714, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4868 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.9393704915164136, 2.8972310229510527, 1.4611487924297015, 1.404138385673655, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4869 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.9382172399774653, 2.8990689400595597, 1.458124717926358, 1.4052133672175067, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.487 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.9370395423925157, 2.9010153878170266, 1.4550827612638682, 1.4064291528433495, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4871 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.935863737459244, 2.903097475024798, 1.4520254261477323, 1.407831547645895, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4872 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.934717458559254, 2.905307658647978, 1.4489818507012777, 1.4093988509840467, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4873 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.9336361168526013, 2.907622172613363, 1.4460060328672284, 1.4111122396916687, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4874 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.93216157985173, 2.9096508083055728, 1.4425100619792983, 1.4124362430067094, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4875 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.93076779148933, 2.911666517422502, 1.4391041793491273, 1.413683356798339, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4876 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.929547033260826, 2.9136489022261234, 1.4358567836220597, 1.414830180788423, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4877 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.928572572957073, 2.91558128042367, 1.4328791131305911, 1.4158562759597162, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4878 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.9174529912436427, 1.430222149550571, 1.4167282939592956, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4879 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.919255503692811, 1.4174322286663292, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.488 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.920982621799018, 1.417960945079263, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4881 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.92263240657488, 1.4183139121873194, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4882 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.9242113994190877, 1.418496499347089, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4883 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.9257104579309945, 1.4185189653000765, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4884 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.9271329366004557, 1.4183952766185077, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4885 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.9284842231718122, 1.4181418811140347, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4886 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.9297714630724707, 1.4177765378610165, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4887 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.9310032420284906, 1.417317275864075, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4888 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.9321892418326967, 1.416781524090555, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4889 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.93333988507017, 1.4161943909479986, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.489 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.9344659853831985, 1.4155666903814834, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4891 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.9355858414870295, 1.414906329734566, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4892 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.9367033236481115, 1.4142232639312136, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4893 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.93782806649241, 1.4135252452384475, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4894 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.938969786565007, 1.4128254274029852, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4895 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.9401356576820614, 1.4121315507607448, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4896 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.941338226966548, 1.411431320867666, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4897 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.942586328668585, 1.4107322987890472, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4898 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.9438851022965205, 1.4100460845538052, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Initial_theta = 0.2 rad     Initial_omega = 0.0 rad/s     F_d = 1.4899 N     Total steps = 29999      dt = 0.01
+        Result max thetas [2.945247491254513, 1.4093722100525987, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Time used 195.515000105 s
