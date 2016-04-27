@@ -32,8 +32,8 @@ c_t = []
 initial_x = 1.0
 initial_y = 0.0
 initial_z = 0.0
-r = 163.8
-
+r = 161.0
+stringr=str(r)
 c_t1=[]
 c_z1=[]
 
@@ -46,15 +46,20 @@ for i in range(1,len(c_t)-1):
         c_t1.append(c_t[i])
         print c_t[i],'    ',c_z[i]
 
-
-plt.plot(c_t,c_z)
-plt.scatter(c_t1,c_z1)
-plt.xlabel('time')
-plt.ylabel('z')
-plt.title('Exercise 3.29 r=163.8')
-
-
 print 'Time used',time.time()-start_time,'s'
 
+
+plt.plot(c_t,c_z)
+plt.scatter(c_t1,c_z1,color='cyan')
+plt.xlabel('time')
+plt.ylabel('z')
+plt.title('Exercise 3.29 r='+stringr)
+plt.show()
+
+
+plt.xlabel('x')
+plt.ylabel('z')
+plt.plot(c_x,c_z)
+plt.title('Exercise 3.29 r='+stringr)
 plt.show()
 ```
