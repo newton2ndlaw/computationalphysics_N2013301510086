@@ -32,7 +32,7 @@ c_t = []
 initial_x = 1.0
 initial_y = 0.0
 initial_z = 0.0
-r = 163
+r = 163.0
 
 Calculate()
 
@@ -40,7 +40,7 @@ Calculate()
 plt.plot(c_t,c_z)
 plt.xlabel('time')
 plt.ylabel('z')
-plt.title('Exercise 3.29 r=160')
+plt.title('Exercise 3.29 r=160.0')
 
 print 'Time used',time.time()-start_time,'s'
 
