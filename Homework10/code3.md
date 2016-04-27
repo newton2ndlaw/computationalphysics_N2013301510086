@@ -39,18 +39,20 @@ c_z1=[]
 
 Calculate()
 
-print 't        z'
+print 't            z'
 for i in range(1,len(c_t)-1):
     if c_z[i]>c_z[i-1] and c_z[i]>c_z[i+1]:
         c_z1.append(c_z[i])
         c_t1.append(c_t[i])
-        print c_t[i],c_z[i]
+        print c_t[i],'    ',c_z[i]
 
 
 plt.plot(c_t,c_z)
+plt.scatter(c_t1,c_z1)
 plt.xlabel('time')
 plt.ylabel('z')
 plt.title('Exercise 3.29 r=163.8')
+
 
 print 'Time used',time.time()-start_time,'s'
 
