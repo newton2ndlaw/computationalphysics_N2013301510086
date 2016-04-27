@@ -12,8 +12,6 @@ Constant_b = 8.0/3.0
 Constant_sigma = 10.0
 dt = 0.0001
 
-print Constant_b
-print Constant_sigma
 
 def Calculate():
     c_x.append(initial_x)
