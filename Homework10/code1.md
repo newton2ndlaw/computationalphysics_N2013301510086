@@ -34,6 +34,9 @@ r = 25.0
 Calculate()
 
 plt.plot(c_x,c_z)
+plt.xlabel('x')
+plt.ylabel('z')
+plt.title('Exercise 3.26 phase space plot: z versus x')
 
 print 'Time used',time.time()-start_time,'s'
 
