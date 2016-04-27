@@ -18,7 +18,7 @@ def calculate():
     c_vx.append(initial_vx)
     c_vy.append(initial_vy)
     c_t.append(0)
-    for i in range(100000):
+    for i in range(10000):
         c_x.append(c_x[i]+c_vx[i]*dt)
         c_y.append(c_y[i]+c_vy[i]*dt)
         c_vx.append(c_vx[i])
@@ -43,12 +43,17 @@ initial_vx=1.0
 initial_vy=1.2
 calculate()
 
-plt.scatter(c_x,c_y,s=1)
-plt.title('Exercise 3.31')
-plt.xlabel('x')
-plt.ylabel('y')
-plt.show()
-
 print 'Total time',c_t[-1]
 print 'Time used',time.time() - start_time,'s'
+
+plt.figure(figsize=(20,20))
+plt.scatter(c_x,c_y,s=1)
+plt.title('Exercise 3.31')
+plt.xlabel("x")
+plt.ylabel("y")
+plt.xlim(-1,1)
+plt.ylim(-1,1)
+plt.legend()
+plt.show()
+
 ```
