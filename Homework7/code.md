@@ -1,3 +1,5 @@
+```python
+
 from visual import *
 from math import *
 import time
@@ -110,3 +112,4 @@ while 1:
     bv.axis.z = c_vz[-1]*0.1
     i=i+1
 
+```
