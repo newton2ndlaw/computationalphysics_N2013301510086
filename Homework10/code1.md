@@ -17,7 +17,7 @@ def Calculate():
     c_x.append(initial_x)
     c_y.append(initial_y)
     c_z.append(initial_z)
-    for i in range(1000000):
+    for i in range(10000000):
         c_x.append(c_x[i]+Constant_sigma*(c_y[i]-c_x[i])*dt)
         c_y.append(c_y[i]+(-c_x[i]*c_z[i]+r*c_x[i]-c_y[i])*dt)
         c_z.append(c_z[i]+(c_x[i]*c_y[i]-Constant_b*c_z[i])*dt)
