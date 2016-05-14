@@ -11,13 +11,12 @@ Designed by Roach
 
 #Constants
 constantme=6.0*(10**24)
-constantmj=1.9*(10**27)
-constantmj0=1.9*(10**27)*10
-times=10
+constantmj=1.9*(10**27)*1000
+times=1000
 strtimes=str(times)
 constantms=2.0*(10**30)
 dt=0.0001
-t=100
+t=20
 
 
 #Initial
@@ -94,11 +93,11 @@ def Calculate():
             sys.stdout.write("\rPercent:%d%%" %(n))
             n=n+1
 
+
+Calculate()
 total_time=time.time()-start_time
 print ""
 print "Time used",total_time,"s"
-
-Calculate()
 
 #1
 plt.figure(figsize=(20,20))
@@ -115,8 +114,8 @@ plt.show()
 
 #2
 plt.figure(figsize=(20,20))
-plt.xlim(-1.5,1.5)
-plt.ylim(-1.5,1.5)
+plt.xlim(-2,2)
+plt.ylim(-2,2)
 plt.xlabel("x(AU)")
 plt.ylabel("y(AU)")
 plt.title("Exercise 4.16 3-body simulation M_J="+strtimes+"M_J0")
