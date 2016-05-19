@@ -46,9 +46,16 @@ for n1 in range(31):
 CV2=[]
 n=0
 
-for i in range(steps):
+for itotal in range(steps):
     CV2=None
-    CV2=CV[:]
+    CV2=[[0 for i in range(31)] for j in range(31)]
+
+    CVbegin=None
+    CVbegin=[[0 for i in range(31)] for j in range(31)]
+    for n1 in range(31):
+        for n2 in range(31):
+            CVbegin[n1][n2]=CV[n1][n2]
+            CV2[n1][n2]=CV[n1][n2]
 
 #calculate CV2
     for n1 in range(1,len(CV)-1):
@@ -59,13 +66,22 @@ for i in range(steps):
         CV2[n3][10]=-1.0
         CV2[n3][20]=1.0
 
+    CVdelta=None
+    CVdelta=[]
+    for n1 in range(31):
+        for n2 in range(31):
+            abs(CVbegin[n1][n2]-CV2[n1][n2])
+
     CV=None
-    CV=CV2[:]
+    CV=[[0 for i in range(31)] for j in range(31)]
+    for n1 in range(31):
+        for n2 in range(31):
+            CV[n1][n2]=CV2[n1][n2]
 
-    print "V",i
-    n=i
+    print "V",itotal
+    ntotal=itotal
 
-strn=str(n)
+strn=str(ntotal)
 print "Total V",n
 print "Time used",time.time()-timebegin
 
@@ -79,7 +95,7 @@ for i in range(31):
 
 plt.figure(figsize=(20,20))
 
-CS = plt.contour(CX, CY, CV, 50,colors='brown')
+CS = plt.contour(CX, CY, CV, 20,colors='brown')
 
 plt.clabel(CS, fontsize=9, inline=1)
 plt.title("Exercise5.7 V"+strn)
