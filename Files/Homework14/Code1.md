@@ -16,7 +16,7 @@ constant_c=300.0
 constant_dt=constant_dx/constant_c
 constant_r=constant_c*constant_dt/constant_dx
 total_L=1.0
-total_t=0.05
+total_t=0.1
 total_M=int(total_L/constant_dx)
 total_N=int(total_t/constant_dt)
 print "Total t =",total_t
@@ -50,7 +50,6 @@ for n in range(2,total_N):
 print "Time used", time.time()-starttime,"s"
 
 plt.figure(figsize=(24,24))
-plt.title("Exercise 6.13")
 plt.xlabel("x(m)")
 plt.ylabel("y(m)")
 
@@ -60,7 +59,7 @@ for i in range(total_M+1):
     plot_cx.append(i*constant_dx)
     plot_cy.append(Cy[0][i])
 plt.subplot(12, 1, 1)
-plt.title("Gaussian pluck")
+plt.title("Waves on a string (Gaussian pluck)")
 plt.xlabel("x(m)")
 plt.ylabel("y(m)")
 plt.xlim(0,1)
@@ -83,4 +82,21 @@ for nt in range(11):
     plt.plot(plot_cx,plot_cy,label=str(nt))
 
 plt.show()
+
+plot_ct=[]
+plot_cyt=[]
+Ctx=0.05
+Nposition=int(Ctx/constant_dx)
+for i in range(total_N+1):
+    plot_ct.append(i*constant_dt)
+    plot_cyt.append(Cy[i][Nposition])
+
+plt.figure(figsize=(24,18))
+plt.title("String signal versus time (at x=0.05m)")
+plt.plot(plot_ct,plot_cyt)
+plt.xlabel("Time(s)")
+plt.ylabel("y(m)")
+plt.show()
+
+
 ```
